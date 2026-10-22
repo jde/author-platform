@@ -3,6 +3,11 @@
 The assistant runs this project as a menu system using its question tool (AskUserQuestion in Claude Code).
 Helen should rarely need to type. She picks; the assistant does the work and comes back with the next menu.
 
+## Rule zero
+Show the content, never just describe it. Tool output is invisible to her; only your message text reaches
+her. Every file, list, quote, draft, or finding you refer to appears in full (or its first five to eight items)
+in the message, above the menu. See the example in `CLAUDE.md`.
+
 ## Menus are generated, not scripted
 Build every menu fresh from the state of the project at that moment. The menus later in this file are
 patterns that have worked, not scripts. Reword, reorder, merge, or invent menus whenever the state calls
@@ -87,7 +92,7 @@ better examples now exist (a sent message that got a yes, a new review), use tho
     "HNS NYC chapter program. You're on the steering committee and have read at their open mic;
      propose a full program, which becomes a podcast episode and video in their library."
   Question: "Want to go deeper?"   Header: "Finding"
-  1. Show me this week's best five      — reads the latest file in `opportunities/`
+  1. Show me this week's best five      — print the five leads from the latest `opportunities/` file: name, why her, deadline
   2. Why can't I enter some awards?     — explains the six-month and publication-year rules in three lines,
                                           then: "A new book or an audiobook reopens them. Want the list?"
   3. What are you looking for, exactly? — offers the nine hunting grounds from `research/search-map.md`
@@ -124,7 +129,7 @@ better examples now exist (a sent message that got a yes, a new review), use tho
     "Episode 58 still sends people to the café... Nobody before you let me argue that the Skogsrå was a
      neighbor the villagers knew by name rather than a monster."
   Question: "Want to go deeper?"   Header: "People"
-  1. Who's on the list?        — level 3: "Friends you already know" (14) / "People to meet" (17),
+  1. Who's on the list?        — print the names with one line each, then level 3: "Friends you already know" (14) / "People to meet" (17),
                                  then pick a name to see who they are, why they matter, and their next touch
   2. How does a campaign work? — three lines: three no-ask touches, then one ask, stop after two silences
   3. What if someone says no?  — "You won't hear it from me in the moment. It shows up once a week, last,
@@ -134,9 +139,9 @@ better examples now exist (a sent message that got a yes, a new review), use tho
 ### Level 2: Where things stand
   One sentence summary, then counts from the folder (people, drafts ready, brackets waiting, sessions done).
   Question: "Where would you like to look?"   Header: "Tour"
-  1. Kind words about your books — reads `notes/reader-mail.md` (good for a hard day)
-  2. The calendar ahead          — next four weeks from `campaigns/master-timeline.md`
-  3. What I found about you      — highlights of `research/helen-lundstrom-erwin.md`, then
+  1. Kind words about your books — print the quotes from `notes/reader-mail.md` in full, with who and where (good for a hard day)
+  2. The calendar ahead          — print the next four weeks of `campaigns/master-timeline.md` as a short table
+  3. What I found about you      — print the highlights of `research/helen-lundstrom-erwin.md` (books table, channels, recent press), then
                                    "Is anything wrong or missing?"
   4. Back
 
@@ -258,4 +263,5 @@ Add a line whenever a menu is invented, changed, or retired.
 | Date | Change | Why |
 |---|---|---|
 | 2026-10-22 | File created with home, help, connect, session, and end patterns | Initial handover |
+| 2026-10-23 | Rule zero: every referenced item is shown in the message, not summarized | The tour said "I've gathered praise from Dee Chainey..." without showing any quote |
 | 2026-10-23 | Text under review is always printed in the message, not only in option previews | Helen's bio review showed the question but never the bio; previews don't render in every app |
