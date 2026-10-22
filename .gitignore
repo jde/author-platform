@@ -1,0 +1,6 @@
+.DS_Store
+.env
+crm/private/
+materials/voice-edits/
+materials/voice-samples/
+private/
