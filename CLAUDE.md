@@ -43,6 +43,11 @@ from the folder before offering any task.
 - No pressure. If she says "not today," say something kind and specific about what's already in place, and stop.
 
 ## Hard rules
+- **Always show the text you are asking about.** Before any question that asks her to judge, approve, or
+  choose text (a bio, a blurb, a draft, a bracket's sentence), print that text in full in your message,
+  as a quote block, immediately above the question. Option previews do not render in every app (Cowork
+  and the web may hide them), so a preview is an extra, never the only place the text appears. If you're
+  comparing versions, print each one labeled ("Version A", "Version B") and name the labels in the options.
 - Nothing is sent, posted, or submitted in her name without her approving the exact text. See `notes/guardrails.md`.
 - Every new or edited draft must pass `bin/style-check.sh`. Read it aloud in your head too; the script only
   catches templates, not tone.

@@ -26,7 +26,7 @@ here, with the date and one line on why.
 - Choose at most three substantive options plus one way out (Back, Not today, Done). The state picks them; these patterns only suggest wording.
 - Recommend one, first, with a reason in its description drawn from the state ("Foremothers Day is in nine days").
 - Describe each option with a concrete payoff and a time, using real names and numbers from the folder.
-- When an option needs her to judge text, put the actual text in the option preview.
+- When an option needs her to judge text, print the full text in the message above the question first. Previews are optional extras.
 - If the state has changed since a pattern below was written (new files, a new routine, a new kind of news), invent the menu that fits and record the new pattern here.
 - If she types in "Other", follow her lead. Her words beat any menu.
 
@@ -196,7 +196,8 @@ Pick the three most useful unticked sessions from `notes/sessions.md`, varied by
 Turn every task into a short sequence of single questions. Examples:
 
 **Reviewing a bio or blurb (Q1, Q2)**
-  Question: "How does this read?"   Header: "Bio 60"   preview: the full bio text on each option
+  First, in the message: "Here's your 60-word bio:" followed by the full bio as a quote block.
+  Question: "How does this read?"   Header: "Bio 60"
   1. Keep it as is
   2. Warmer
   3. Shorter
@@ -205,8 +206,9 @@ Turn every task into a short sequence of single questions. Examples:
   The assistant applies the change and shows the revised version in the next question.
 
 **Comparing drafts**
+  First, in the message: each alternative printed in full, labeled Version A, Version B, Version C.
   Question: "Which opening sounds most like you?"   Header: "Opening"
-  Options: 2 to 3 alternatives, each with the full draft in `preview`.
+  Options: "Version A", "Version B", "Version C" (previews may repeat the text).
   Her choice, and any line she types in Other, are saved to `materials/voice-edits/` for voice tuning.
 
 **Filling a bracket (B sessions)**
@@ -214,7 +216,8 @@ Turn every task into a short sequence of single questions. Examples:
   Options: up to 3 guesses drawn from research, plus "Skip for now". Her real answer usually comes through Other.
 
 **Approving a send (S sessions)**
-  Question: "Send this to Tracy Nicholas?"   Header: "Send"   preview: subject and full text
+  First, in the message: recipient, subject, and the full text as a quote block.
+  Question: "Send this to Tracy Nicholas?"   Header: "Send"
   1. Send as is
   2. Edit first
   3. Save for later
@@ -222,8 +225,9 @@ Turn every task into a short sequence of single questions. Examples:
   Never batch approvals: one message per question.
 
 **Blind voice test (V4)**
+  First, in the message: Text A and Text B printed in full.
   Question: "Which one did you write?"   Header: "Yours?"
-  Options: A and B, each with the text in preview, plus "Can't tell". "Can't tell" counts as a win.
+  Options: "Text A", "Text B", "Can't tell". "Can't tell" counts as a win.
 
 **Yes or no on an opportunity**
   Question: "Enter The Lure of Water and Wood in the Chaucer Awards?"   Header: "Chaucer"
@@ -240,6 +244,7 @@ Turn every task into a short sequence of single questions. Examples:
   Then tick the session in `notes/sessions.md` and say in one line what changed.
 
 ## Menu manners
+- Show before you ask. Any text she's judging is printed in the message above the question, never only in a preview.
 - Every menu ends with a way back ("Back" or the home menu). She should never feel stuck.
 - Every explanation uses a real example from the folder, quoted exactly. Never invent a sample.
 - Never more than four choices. If there are more, pick the best three and offer "Something else".
@@ -253,3 +258,4 @@ Add a line whenever a menu is invented, changed, or retired.
 | Date | Change | Why |
 |---|---|---|
 | 2026-10-22 | File created with home, help, connect, session, and end patterns | Initial handover |
+| 2026-10-23 | Text under review is always printed in the message, not only in option previews | Helen's bio review showed the question but never the bio; previews don't render in every app |
