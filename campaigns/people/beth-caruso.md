@@ -22,31 +22,31 @@ An indie novelist of witch trials with an advocacy angle, a few steps ahead on t
 ## Drafts
 
 ### Touch 1 · Bluesky reply
-> Sweden never exonerated its 1668–1676 victims either; there is a memorial at Torsåker but no act. [Helen: verify the memorial and the exoneration claim before sending] Your Connecticut work is the model I point Swedish historians at. Thank you for doing it in fiction and in fact.
+> Sweden has not exonerated the people convicted in its 1668 to 1676 hunt either, though there is a memorial at Torsåker. [Helen: verify the memorial and the exoneration claim before sending] Your work on the Connecticut cases is a useful model for anyone seeking recognition for the accused elsewhere.
 
 ### Touch 2 · review, after reading
-> [Helen writes after reading [title]. One scene she admired, and one thing it taught her about writing the accused as neighbours rather than symbols. Under 50 words.]
+> [Helen writes after reading [title]: one scene she admired, and one thing it showed her about writing the accused as ordinary members of their community. Under 50 words.]
 
 ### Touch 3 · public invitation on Bluesky
-> @oneofwindsor.bsky.social, 30 November is Foremothers Day at the café I built in VR from my suffrage novel. It runs in a browser. If a quiet hour among women who read trial records sounds like your kind of evening, you'd be very welcome. [link]
+> @oneofwindsor.bsky.social, 30 November is Foremothers Day at The Foremothers Café, a women's history museum I built in virtual reality from my suffrage novel. It runs in a web browser. You would be very welcome to join us. [link]
 
 ### Touch 4 · DM or email, a soft ask
-Subject: Two hunts, one of them exonerated
+Subject: A conversation about exoneration
 
 Hi Beth,
 
-Your Connecticut trilogy and the push for exoneration are the reason I follow you. I write from the Swedish hunt of 1668 to 1676; my latest, *The Lure of Water and Wood*, is narrated by the forest and water spirits the accused were charged with loving.
+I follow your work on the Connecticut trials and the push for exoneration. I write historical fiction set during Sweden's sorcery trials of the 1600s and 1700s. My latest novel, *The Lure of Water and Wood*, is narrated by the forest and water spirits some of the accused were charged with.
 
-An idea you can take or leave: a public conversation on exoneration, yours won and Sweden's still owed, held in The Foremothers Café, the 1918 Lund café I built in virtual reality. I do the setting up and the onboarding, we each tell our readers, and the recording is yours as much as mine. Whatever you decide, I'll be mentioning your trilogy to my readers in any case.
+I'd like to propose a public conversation between us about exoneration, covering the Connecticut cases and the situation in Sweden. [Helen: verify Connecticut's current exoneration status.] It would take place in The Foremothers Café, a 1918 café I built in virtual reality. I'd handle the setup and help attendees get in, we'd both tell our readers, and we'd share the recording.
 
-I can send dates the moment you want them.
+I'll recommend your trilogy to my readers regardless. If you're interested, I can send some dates.
 
-Warmly,
+Best,
 Helen
 helenerwin.com
 
 ### Touch 5 · follow-up, with a date
-> Hi Beth, a date to make it concrete: [date], 7 pm Eastern, for the exoneration conversation. If that's no good, say so and I'll stop asking. The recommendation stands whatever you decide.
+> Hi Beth, would [date] at 7 pm Eastern work for the conversation about exoneration? If not, just let me know and I won't ask again.
 
 ## Stop rule
 Stop after two unanswered asks.

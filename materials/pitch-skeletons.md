@@ -4,14 +4,13 @@ Four shapes, not templates. A shape is the order of moves. The words are written
 and `bin/style-check.sh` fails any sentence that shows up in more than two files.
 
 ## A. Podcast guest (under 160 words)
-1. Open on a specific episode of theirs and the one thing in it she'd argue with or add to.
+1. Say which episode or work of theirs led her to write, and what was useful in it.
 2. One sentence of who she is, shaped for this listener (folklore host hears "trial records";
    history host hears "the spirits testify").
 3. One fact they don't have: a Swedish detail that fits their show's beat.
 4. The ask in one sentence, with a varied, un-sorry exit.
 5. Sign-off. Link last.
-Example opening, for a folk-horror host: "Your Sussex hedge episode had me checking whether the
-Skogsrå ever crossed the North Sea. She didn't, but her cousin the hulder shows up in Shetland."
+See `voice.md` for a full example.
 
 ## B. Event or book club (under 180 words)
 1. Open on what they ran last that she'd have attended.
@@ -30,10 +29,6 @@ Skogsrå ever crossed the North Sea. She didn't, but her cousin the hulder shows
 Title, period, narrators, sources, length, publisher, year, ISBN, author credits. Flat and factual;
 judges read hundreds. Cite only courts and records Helen has confirmed (Mora, Älvdalen, Svea court).
 
-## Exits that are not apologies
-These show the tone. Never paste them: write a fresh exit for each reader.
-- If it's not your season, I'll keep listening either way.
-- If the slate's full, tell me when it opens and I'll come back then.
-- No answer needed unless it's a yes.
-- If this isn't the right desk, point me at the right one and I'll stop bothering you.
-- Say the word and I'll send dates.
+## Closing the request
+End with the request and any details they need. Don't add an "if not" line unless it adds information, such
+as "If spring doesn't work, I'm also available in the fall." Never apologize for asking.

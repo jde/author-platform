@@ -30,30 +30,28 @@ The museum runs a monthly Meet the Author series and more than 100 events a year
 ## Drafts
 
 ### Proposal email
-Subject: A Meet the Author with two narrators who aren't human
+Subject: Meet the Author proposal: the Swedish sorcery trials
 
 Hello [name],
 
-Meet the Author is the nearest thing Nordic America has to a national stage, and there's a story that hasn't been on it yet: the Swedish sorcery trials, told by the spirits the accused were charged with loving.
+I'd like to propose a remote Meet the Author session on my novel *The Lure of Water and Wood*, ideally in October 2027.
 
-I write from the Mora and Älvdalen records. In 1669 a child's description of Blåkulla was enough to convict, and the printed account of the executions travelled as far as Salem. *The Lure of Water and Wood* gives the trials to Näcken, the fiddler in the river, and the Skogsrå, the woman of the woods, as narrators.
+The novel is set during the Swedish sorcery trials of the 1600s and 1700s and draws on the Mora and Älvdalen records. It is narrated by Näcken and the Skogsrå, two spirits from Swedish folklore whom the accused were said to have had relations with. At Mora in 1669, children's testimony about being taken to Blåkulla led to executions, and reports of the trial spread across Europe.
 
-Remote works any evening Pacific time, and I'd end with a live walk through The Foremothers Café, the Swedish women's history museum I built in VR. It runs on a laptop, so your audience can follow from anywhere.
+I can present remotely any evening, Pacific time. I'd end with a short live visit to The Foremothers Café, a Swedish women's history museum I built in VR. Attendees can follow on a laptop.
 
-Would October 2027 work for the series? If another month is open sooner, I'll take it.
+Would October 2027, or an earlier open month, work for the series?
 
 Best,
 Helen Lundström Erwin
 helenerwin.com
 
 ### Follow-up
-Subject: Re: two narrators who aren't human
+Subject: Re: Meet the Author proposal
 
 Hello [name],
 
-If Meet the Author is booked through 2027, a stand-alone online programme on the café would also suit: a 1918 Swedish café, rebuilt in VR, with a Thursday fika that people join from four continents.
-
-Give me a month and I'll clear it.
+If Meet the Author is booked for 2027, I could instead offer a separate online program about The Foremothers Café, a 1918 Swedish café rebuilt in VR where I host a weekly fika. Please let me know if either would work.
 
 Best,
 Helen
@@ -63,10 +61,11 @@ Subject: Thank you
 
 Hello [name],
 
-What an evening. Thank you for [Helen: specific]. Your members have a standing invitation to a fika at the café, and I'll keep a Thursday open for them.
+Thank you for hosting the session, and for [Helen: specific]. Your members are welcome to join a Thursday fika at the café any time.
 
-Warmly,
+Best,
 Helen
+
 ## Follow-up rule
 One follow-up at 14 days. Stop at 28 days; retry in May 2027.
 

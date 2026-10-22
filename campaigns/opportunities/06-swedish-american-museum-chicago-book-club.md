@@ -33,26 +33,28 @@ The museum hosted Helen on January 29, 2022 for *Sour Milk in Sheep's Wool*, so 
 ## Drafts
 
 ### Proposal email
-Subject: Coming back to the book club with the sorcery trials
+Subject: Book club proposal: The Lure of Water and Wood
 
 Hello [name, or "friends at the museum"],
 
-The January 2022 session on *Sour Milk in Sheep's Wool* is still one of my favourite afternoons as a writer. [Helen: one member's question she remembers.] I'd like to come back.
+I joined your online book club in January 2022 to discuss *Sour Milk in Sheep's Wool*, and I'd like to propose a second visit for my newer novel. [Helen: one member's question she remembers.]
 
-The new book is *The Lure of Water and Wood*. Sweden in the 1600s and 1700s, the sorcery trials at Mora and Älvdalen, told by Näcken and the Skogsrå, the river fiddler and the forest woman the accused were charged with loving. It's the right book for the last Saturday in October, when the Skogsrå does her best work, or for the Saturday before Foremothers Day on November 30, now an annual event at Hanna's café, rebuilt in VR.
+*The Lure of Water and Wood* is set in Sweden in the 1600s and 1700s, during the sorcery trials at Mora and Älvdalen. It is narrated by Näcken and the Skogsrå, two spirits from Swedish folklore whom the accused were said to have had relations with.
 
-The store can order through Ingram. I'll send discussion questions and bring a passage from the Mora depositions to read. Would October or November 2027 suit the club?
+It would suit the last Saturday in October 2027, or the Saturday before Foremothers Day on November 30. The museum store can order copies through Ingram, and I'll provide discussion questions and read a passage from the Mora trial records.
+
+Would either date work for the club?
 
 Best,
 Helen Lundström Erwin
 helenerwin.com
 
 ### Follow-up
-Subject: Re: coming back with the sorcery trials
+Subject: Re: Book club proposal: The Lure of Water and Wood
 
 Hello [name],
 
-If 2027 is already full, pencil me into the first open Saturday and I'll plan around it. And if the members ever want to see Hanna's café for themselves, it runs in a browser and I host there most Thursdays.
+If the 2027 schedule is already planned, the first open date after that would work for me. Members are also welcome to visit The Foremothers Café, which runs in a web browser; I host a fika there most Thursdays.
 
 Best,
 Helen
@@ -62,13 +64,14 @@ Subject: Thank you
 
 Hello [name],
 
-Thank you for yesterday, and please thank [Helen: names] for [Helen: the question or moment]. The invitation stands: a fika for the club at the café, any Thursday you like. I'll bring the Skogsrå, on her best behaviour.
+Thank you for hosting yesterday's discussion, and please thank [Helen: names] for [Helen: the question or moment]. The club is welcome to join a Thursday fika at the café any time.
 
-Warmly,
+Best,
 Helen
 
 ### Bluesky post six weeks before (under 50 words)
-The Swedish American Museum in Chicago is reading *The Lure of Water and Wood* for its online book club on [date]. Swedish-American readers anywhere with a Zoom link: come meet the Skogsrå with me. #BookSky
+The Swedish American Museum in Chicago is reading *The Lure of Water and Wood* for its online book club on [date]. I'll be joining the discussion on Zoom, and anyone can attend. #BookSky
+
 ## Follow-up rule
 One follow-up at 14 days. Stop at 28 days; retry in June 2027. Once booked, no further nudging; the museum sets the pace.
 

@@ -32,15 +32,15 @@ ASI runs a steady program of book talks, some ticketed (Robert Strand on Nordic 
 ## Drafts
 
 ### Proposal email
-Subject: Easter witches and the Mora trials: a book talk for ASI
+Subject: Book talk proposal: the Mora trial and Swedish Easter witches
 
 Hello [name],
 
-ASI's evening with Elin Anna Labba on *The Home of the Drowned* is the kind of programme I wish every Swedish institution in America ran. [Helen: one line on why, if she watched or read it.] I'd like to offer one in the same spirit.
+I'd like to propose a book talk at ASI in 2027. [Helen: one line about the Elin Anna Labba talk, if she watched or read it.]
 
-I grew up in Helsingborg and write from the Swedish court records. The Mora trial of 1669 was printed across Europe and shaped how Salem spoke about witches twenty years later; the children who testified said they'd flown to Blåkulla, where Swedish children still pretend to fly every Easter. *The Lure of Water and Wood* tells those trials through Näcken and the Skogsrå, the beings named in the testimony.
+I grew up in Helsingborg and write historical fiction based on Swedish court records. My novel *The Lure of Water and Wood* is set during the sorcery trials of the 1600s and 1700s and is narrated by Näcken and the Skogsrå, two spirits named in the testimony. The talk would cover the Mora trial of 1669, where children testified that they had been taken to Blåkulla, and the Easter-witch tradition connected to that belief.
 
-Easter week is the natural date, October the other. In person or online, and I'd close with a short live visit to The Foremothers Café, the Swedish women's history museum I built in VR.
+Easter week or October would suit the subject. I can present in person or online, and could end with a short visit to The Foremothers Café, a Swedish women's history museum I built in VR.
 
 Would April or October 2027 work?
 
@@ -49,13 +49,11 @@ Helen Lundström Erwin
 helenerwin.com
 
 ### Follow-up
-Subject: Re: Easter witches and the Mora trials
+Subject: Re: Book talk proposal
 
 Hello [name],
 
-If an in-person date is hard to find, the whole programme works online for ASI members, café visit included; it runs on a laptop.
-
-If a colleague runs the programme calendar, forward this along and I'll take it from there.
+I wanted to check whether you'd had a chance to look at my proposal. If an in-person date is difficult, the talk and café visit work well online for ASI members. If someone else manages the program calendar, please forward this to them.
 
 Best,
 Helen
@@ -65,10 +63,11 @@ Subject: Thank you
 
 Hello [name],
 
-Thank you for last night, and for [Helen: specific]. ASI's members are welcome at the café for a fika whenever they'd like one; I'll keep a Thursday for them.
+Thank you for hosting the talk, and for [Helen: specific]. ASI members are welcome to join a Thursday fika at the café any time.
 
-Warmly,
+Best,
 Helen
+
 ## Follow-up rule
 One follow-up at 14 days. Stop at 28 days; retry in May 2027.
 

@@ -22,38 +22,38 @@ Most recent folklore host to have her on. A host who already likes the material 
 ## Drafts
 
 **Touch 1**
-Subject: Six months on from the tree spirits
+Subject: An update since episode 58
 
 Tracy,
 
-Episode 58 still sends people to the café; [a listener who turned up, or a message received] is the one I think of. Nobody before you let me argue that the Skogsrå was a neighbor the villagers knew by name rather than a monster.
+Episode 58 is still sending people to the café. [A listener who came, or a message received.] Thank you for letting me make the case that the villagers knew the Skogsrå by name.
 
-Two bits of news since April: the café made the Auggie finalist list in June, and I'm showing it at Immersive X in November. One tiny thing, if the page is easy to edit: it has me as Irwin, and I'm Erwin.
+Since April, the café was an Auggie finalist in June, and I'm showing it at Immersive X in November. Also, the episode page spells my name Irwin. It's Erwin, if that's easy to correct.
 
-Warmly,
+Best,
 Helen
 
 **Touch 2 (Bluesky, under 50 words)**
-Six months later this is still my favorite hour on why the woman of the woods deserves her own narrator. Thank you again, @[Folkloring handle]. Episode 58, for anyone who wants Swedish forest spirits before spring. [link]
+I'm still recommending my conversation with @[Folkloring handle] about Swedish forest spirits and why the Skogsrå deserves to tell her own story. Episode 58 of Folkloring: [link]
 
 **Touch 3**
-Subject: Lucia on the 13th, in case December needs a voice
+Subject: A voice note for a December episode
 
 Tracy,
 
-Swedish December stacks two folklore seasons together: Lucia on the 13th with her crown of candles, then the long Yule nights when the hidden folk expect a bowl of porridge left out. If a five-minute voice note on either would help a holiday episode, I'll record it the day you ask. If December is already cut, keep this for next year.
+Swedish December has two folklore traditions close together. Lucia is on the 13th, and during the Yule nights people left porridge out for the hidden folk. If a five-minute voice note on either would help with a holiday episode, I can record it as soon as you ask. If December is already planned, keep this for next year.
 
-Warmly,
+Best,
 Helen
 
 **Touch 4**
-Subject: One introduction, if it's easy
+Subject: Asking for an introduction
 
 Tracy,
 
-I'm trying to get the Swedish trials in front of Mark Norman at The Folklore Podcast and Icy Sedgwick at Fabulous Folklore this spring. If you know either well enough to send a one-line introduction, it would open the door faster than my cold email will. If you don't, I'll write cold with a clear conscience.
+This spring I'd like to pitch the Swedish trials to Mark Norman at The Folklore Podcast and Icy Sedgwick at Fabulous Folklore. If you know either of them well enough to introduce me in a line, I'd appreciate it. If you don't, I'll write to them directly.
 
-Warmly,
+Best,
 Helen
 
 ## Stop rule

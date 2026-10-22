@@ -22,28 +22,28 @@ A peer at a similar stage, in the folklore-fantasy lane, active on Bluesky's fol
 ## Drafts
 
 ### Touch 1 · Bluesky reply
-> Your [post subject] does the thing I wish more folklore-fantasy did: it lets the creature have a working day. In the Swedish trials I write from, the Skogsrå was named in court as a neighbour with habits, not a monster with a moral. Glad I found your feed.
+> I liked your [post subject]. [Helen: one specific sentence about the post.] In the Swedish trial records I write from, the Skogsrå is described as a familiar figure in village life with her own habits. I'm glad I found your account.
 
 ### Touch 2 · share
-> Folklore fantasy by someone who also plays the tunes: @abeaumontbooks.bsky.social. [Helen: title and one sentence.] Näcken, Sweden's water spirit, is a fiddler, and the 17th-century courts were certain the music was the bait. Alexandra's books understand that. #FolkloreThursday
+> @abeaumontbooks.bsky.social writes folklore fantasy and also plays folk music. [Helen: title and one sentence.] In Swedish folklore, Näcken draws people in with his fiddle playing, and her books handle that link between music and folklore well. #FolkloreThursday
 
 ### Touch 3 · review, after reading
-> [Helen writes after reading: one scene, one craft note, under 50 words.]
+> [Helen writes after reading: one scene and one note on craft, under 50 words.]
 
 ### Touch 4 · DM, a soft ask
 Hi Alexandra,
 
-I've been enjoying your books and your music this autumn. I write historical fantasy from the Swedish sorcery trials; my latest is narrated by Näcken, the water spirit who fiddles dancers into the river, and the Skogsrå, the woman of the woods.
+I've been enjoying your books and your music this autumn. I write historical fantasy about the Swedish sorcery trials. My latest novel is narrated by Näcken, the water spirit who draws people in with his fiddle, and the Skogsrå, a forest spirit.
 
-An evening I'd like to make: you playing, me reading from the records where a fiddle tune was entered as evidence, in the 1918 café I built in virtual reality. It runs in a browser and holds seventy. I'd handle the setting up and tell my readers; we'd each mention the other's books, which I'll be doing regardless.
+I'd like to propose an evening together in The Foremothers Café, a 1918 café I built in virtual reality. You would play, and I would read from trial records that mention fiddle music. [Helen: verify such a record exists.] The café runs in a web browser and holds seventy people. I'd handle the setup and invite my readers, and we'd each mention the other's books.
 
-If this isn't the right year, tell me which one is. The café is at theforemotherscafe.com
+If this year doesn't work, a later date would be fine. The café is at theforemotherscafe.com.
 
-Warmly,
+Best,
 Helen
 
 ### Touch 5 · follow-up, with a date
-> Hi Alexandra, a concrete date for the Näcken evening: [date], 7 pm Eastern. If it's no good, say so and I'll leave it there. I'll keep sharing your work in any case.
+> Hi Alexandra, would [date] at 7 pm Eastern work for the evening of music and readings? If not, let me know and I'll leave it there. I'll keep sharing your work in any case.
 
 ## Stop rule
 Stop after two unanswered asks.

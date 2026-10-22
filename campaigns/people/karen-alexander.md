@@ -22,49 +22,49 @@ XR Women is Helen's professional community in XR. Karen can open: an XR Women ev
 ## Drafts
 
 **Touch 1 (email)**
-Subject: Your sentence, on a wall in Lund
+Subject: Your quote about the café
 
 Karen,
 
-"An expansion of the literary imagination" has outlived most things said about the café. I've used it in two grant forms and one talk, always with your name attached, and nobody has argued with it yet.
+I still use your description of the café, "an expansion of the literary imagination," with your name on it. It has appeared in two grant applications and one talk so far.
 
-Immersive X is November 10 to 12 and the café is on the program. [One line on what's new in the room.] If any of the XR Women crowd are drifting through the festival, I'd like to meet them at the counter.
+The café is on the program at Immersive X on November 10 to 12. [One line on what's new in the café.] If any XR Women members are attending, I'd like to meet them there.
 
-Warmly,
+Best,
 Helen
 
 **Touch 2**
-Subject: November 30, come as a guest
+Subject: An invitation to Foremothers Day
 
 Karen,
 
-Foremothers Day is the 30th in the café. [One line on the program.] Nothing for you to do; walk in, take a coffee, meet the women on the wall. The whole thing runs in a browser, and I'll send a two-minute note on finding the door.
+You're invited to Foremothers Day in the café on November 30. [One line on the program.] There's nothing to prepare. It runs in a web browser, and I'll send short instructions for getting in.
 
 theforemotherscafe.com
 
-Warmly,
+Best,
 Helen
 
 **Touch 3**
-Subject: A women's history museum as an XR Women venue
+Subject: Hosting an XR Women event in the café
 
 Karen,
 
-An idea for early 2027. The café seats seventy, costs nothing to enter, and is a women's history museum, which feels like the right room for an XR Women gathering. I'd host, onboard anyone new, and keep the evening to an hour.
+I'd like to offer the café as a venue for an XR Women gathering in early 2027. It holds seventy people, it's free, and since it's a women's history museum it seems a good fit. I would host, help newcomers get set up, and keep it to an hour.
 
-Would January or February suit? If you're booked through spring, I'll check back when the season turns.
+Would January or February work for you? If spring is already booked, tell me when to ask again.
 
-Warmly,
+Best,
 Helen
 
 **Touch 4**
-Subject: XR Women Awards, one question
+Subject: XR Women Awards this cycle
 
 Karen,
 
-The 2023 nomination in the Trailblazing category still means a great deal, and the café has done three years of work since. Is there a category this cycle where it belongs, and does the nomination need to come from someone other than me? A single line back is all I need.
+The café was nominated in the Trailblazing category in 2023 and has run for three more years since then. Is there a category this cycle that it would fit, and does someone other than me need to submit the nomination?
 
-Warmly,
+Best,
 Helen
 
 ## Stop rule

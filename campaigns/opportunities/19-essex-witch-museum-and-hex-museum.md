@@ -1,10 +1,10 @@
 # Essex Witch Museum project and HEX! Museum of Witch Hunt (Denmark)
 
 ## Goal
-Two institutional relationships in the European witch-trial world: a collaboration with the Essex Witch Museum project (a museum in formation that needs stories, speakers and digital programs) and a scholarly connection with HEX! Museum through Louise Hauberg Lindgaard. Concrete outcomes: a joint VR event in The Foremothers Café or a Lure-based café exhibition on the Swedish trials, and a Nordic historian who will vouch for the book's research.
+Two relationships with institutions working on European witch-trial history: a collaboration with the Essex Witch Museum project, a museum in development without a building yet, and a scholarly contact at HEX! Museum through Louise Hauberg Lindgaard. Specific outcomes: a joint VR event or an exhibition on the Swedish trials in The Foremothers Café, and a Nordic historian willing to comment on the book's research.
 
 ## Why her
-Both are building audiences and programs around exactly her period. A museum without a building is what she already runs; she can offer the café as a venue before Essex has walls. HEX! is Nordic and scholarly; a historian's endorsement of the Swedish research would carry Lure into academic and museum circles.
+Both organizations focus on her period. The Essex project needs venues and programs before it has a building, and Helen can offer the café for digital events. HEX! is a Nordic museum with scholarly connections, and a historian's endorsement of the Swedish research would help the book reach academic and museum audiences.
 
 ## Contact and mechanism
 - Essex Witch Museum: essexwitchmuseum.bsky.social. Project to create a museum on 16th- to 18th-century Essex witch trials. [verify: website, contact email, who runs it]
@@ -32,46 +32,48 @@ Both are building audiences and programs around exactly her period. A museum wit
 
 ### Replies, touch one
 To the Essex Witch Museum project:
-A museum before the building is a hard and good thing to be. I run one that will never get a building: a 1918 Swedish café in VR that hosts talks on the sorcery trials. When your supporters need a room for a digital program, that one has seventy chairs and the door's open.
+I also run a museum without a physical building: The Foremothers Café, a 1918 Swedish café in VR that hosts talks, including talks on the Swedish sorcery trials. If you need a space for a digital program before your building opens, it holds 70 people and you're welcome to use it.
 
 To Louise Hauberg Lindgaard:
-[One specific point from her research on noble involvement.] In the Swedish records the nobility turn up mostly late, as the commission of 1676 that finally stopped the trials. I'd be curious whether Denmark's gentry ever played the brake, or only the accelerator.
+[One specific point from her research on noble involvement.] In the Swedish records, the nobility appear mainly at the end, in the 1676 commission that stopped the trials. Did Danish nobles ever act to stop trials, or only to drive them?
 
 ### Standalone post, touch two
-The @essexwitchmuseum project is building a museum of the Essex trials before it has a building. Right order. I built a 1918 Swedish café in VR before I had a museum, and the museum arrived on its own. If you care how witch hunts are remembered, follow them.
+The @essexwitchmuseum project is building a museum about the Essex witch trials and running programs before it has a building. I started The Foremothers Café, a 1918 Swedish café in VR, before I had a museum. If you're interested in how witch trials are remembered, they're worth following.
 
 ### Note to Louise with the Foremothers Day recording
 Subject: A Swedish women's history museum in VR, and the trials
 
 Dear Dr. Lindgaard,
 
-Your work on noble involvement in the trials has been in my reading pile since [Helen: the post or paper], and I wanted to say so directly.
+I've been reading your work on noble involvement in the witch trials, especially [Helen: the post or paper].
 
-I spent several years in the Mora and Älvdalen records for *The Lure of Water and Wood*, a novel narrated by the water and forest spirits the accused were charged with loving. I also run The Foremothers Café, a Swedish women's history museum in virtual reality. Here is our Foremothers Day from November 30: [link]. I mention it because the café hosts talks, and a Nordic evening on the trials with HEX! would be an honor to host if the museum ever wanted one.
+I spent several years in the Mora and Älvdalen records for my novel *The Lure of Water and Wood*, which is narrated by the water and forest spirits the accused were charged with having relations with. I also run The Foremothers Café, a Swedish women's history museum in virtual reality. Here is the recording of our Foremothers Day on November 30: [link].
 
-A reply only if it suits. Thank you for the research.
+The café hosts talks, and if HEX! would ever like to hold a Nordic evening on the trials there, I would be pleased to host it.
+
+Thank you for your research.
 
 Best,
 Helen Lundström Erwin
 
 ### Proposal to the Essex Witch Museum
-Subject: A digital program for your supporters: Blåkulla before Salem
+Subject: Offer of a free online talk for your supporters: the 1669 Mora witch trial
 
 Hello [name or team],
 
 [One sentence on something they posted recently.]
 
-Here is an offer with no fee attached. I run The Foremothers Café, a women's history museum in virtual reality that seats seventy and works in a browser. I'm a novelist who spent years in Sweden's sorcery-trial records, and I'd give your supporters an hour on the Mora trial of 1669: the Blåkulla story, the children's scripted testimony, and the thing Sweden did in 1676 that Essex and Salem never did, which was stop.
+I'd like to offer your supporters a free one-hour online talk on the 1669 Mora witch trial in Sweden. It would cover the Blåkulla accounts, the children's scripted testimony, and how Sweden ended its trials in 1676.
 
-The museum would be the host and the café the room. I'd promote it to my own audience as your event, and we'd run a fifteen-minute onboarding session beforehand for anyone new to VR.
+I'm a novelist who has spent years in Sweden's sorcery-trial records, and I run The Foremothers Café, a women's history museum in virtual reality. It holds 70 people and works in a web browser. The museum would be the host, and I would promote it to my audience as your event. We would run a fifteen-minute onboarding session beforehand for anyone new to VR.
 
-The café one-sheet is attached. Would February or March suit?
+The café one-sheet is attached. Would February or March suit you?
 
 Best,
 Helen Lundström Erwin
 
 ### Follow-up to Essex, fourteen days on
-Hello again. The February and March dates are still open on my side, and I've added a short walkthrough clip of the café so you can see the room before deciding: [link]. If the slate is full this spring, tell me when it opens.
+Hello again. February and March are still open for the talk on the Mora trial. I've added a short video tour of the café so you can see the space: [link]. If spring doesn't work, please suggest a better time.
 
 Best,
 Helen

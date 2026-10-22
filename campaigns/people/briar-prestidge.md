@@ -21,29 +21,29 @@ Her film is the café's most-cited credential (Forbes, documentary). She has an 
 ## Drafts
 
 **Touch 1**
-Subject: The café, four years after your cameras
+Subject: An update on the café since your film
 
 Briar,
 
-Your film is still the first thing people mention when they ask about the café, so you should have the update. It moved to ENGAGE, made the Auggie finalist list for Best Indie Creator in June, and the American Historical Association listed it this year as a venue. Immersive X has it on the program November 10 to 12.
+People still mention 48 Hours in the Metaverse when they ask about the café, so I wanted to give you an update. It moved to ENGAGE, it was an Auggie finalist for Best Indie Creator in June, and the American Historical Association listed it as a venue this year. It's also on the program at Immersive X on November 10 to 12.
 
-Nothing attached to this except thanks for filming it when it was new.
+Thank you for filming it when it was new.
 
-Warmly,
+Best,
 Helen
 
 **Touch 2**
-Subject: Sunday, with the room full
+Subject: Foremothers Day photos
 
 Briar,
 
-Foremothers Day was Sunday. [Number] people, and [one moment]. Photo attached; the counter from your film, with a crowd at it.
+Foremothers Day was on Sunday. [Number] people came, and [one moment from the day]. I've attached a photo of the counter from your film with a crowd around it.
 
-Warmly,
+Best,
 Helen
 
 **Touch 3 (LinkedIn comment, under 50 words)**
-[One specific sentence about her post. The café goes unmentioned.]
+[One specific sentence about her post. Don't mention the café.]
 
 ## Stop rule
 No ask, so no stop rule needed beyond spacing. Never more than three contacts without a reply.

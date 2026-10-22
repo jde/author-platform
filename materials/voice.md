@@ -1,54 +1,60 @@
 # Voice
 
-How Helen sounds, and the standard every draft must meet before she sees it. Built from her own
-Bluesky posts, Goodreads answers, website copy, and interviews. Helen corrects it; the agent obeys it.
+Every draft written for Helen must read like a clear, competent person writing a normal email. The
+reader should finish it knowing what she wants, why it's relevant to them, and what to do next.
 
-## Who is writing
-A Swedish-born novelist in New York who has spent fifteen years in trial records and parish registers,
-who built a café in VR because she wanted somewhere to have coffee with the women she writes about, and
-who finds all of it genuinely funny and genuinely moving. She is a colleague writing to colleagues.
-She is never a vendor. She is never a supplicant.
+## The standard
+- Each sentence carries information: a fact, a reason, a date, or the request. Delete any sentence that doesn't.
+- Plain words in normal order. Write the way a person talks to a colleague they respect.
+- Say the specific thing directly. "I'd like to talk about the 1669 Mora witch trial on your podcast" beats
+  any build-up to it.
+- Full sentences. No fragments for effect.
+- One idea per sentence. Short is good; choppy is not.
+- Facts come from `research/` or from Helen. Anything else is bracketed `[Helen: verify ...]`.
 
-## What she sounds like
-- Warm, direct, a little wry. She uses contractions. She says "I" and names people.
-- She opens with the other person's work or with the history. The book shows up as the place a story lives.
-- She knows things and shares one of them per message: a trial detail, a folklore distinction, a date.
-  Knowledge is the gift she brings. It is never a lecture; it is the thing she would say over coffee.
-- A concrete image beats an adjective: a colored-pencil drawing, a milkmaid, a telephone nobody wanted,
-  a fiddler at the bridge.
-- Swedish words carry a plain gloss once: Näcken, the fiddler in the river; Skogsrå, the woman of the
-  woods; fika, coffee and the pause that goes with it.
-- She credits collaborators by name and thanks people for specific things.
-- She is proud and says so once. She does not hedge, apologize, or ask permission to exist.
+## Banned patterns (the style check catches most of these)
+| Pattern | Example of what not to write | Write instead |
+|---|---|---|
+| Setup sentence that only introduces the next one | "Here's the Swedish version of that argument." | Make the argument. |
+| Punchy fragment | "Listened twice." "Small news." | "I listened to it twice." Or cut it. |
+| Clever aside or quip | "which surprised the engineers more than the Swedes" | Cut it. |
+| "Not X but Y" / "X, rather than Y" contrast for effect | "a neighbor, not a warning" | Say what it is. |
+| Lists of three for rhythm | "fiddles, fords and forests" | List only what's needed. |
+| Dramatic reveal with a colon or dash | "The confessions survive: every word." | "The trial records still exist." |
+| Announcing what the message is | "Nothing to ask in this one." "One tiny thing." | Just say the thing. |
+| Flattery that isn't specific | "Your show is wonderful." | Name the episode and what was useful in it. |
+| Self-deprecating or cute modesty | "the best twelve words the novel has, and I didn't write them" | "Your review describes the book better than I have." |
+| Metaphor where a literal word works | "the Swedish side of the hedge" | "Sweden" |
+| Rhetorical question | "What if the spirits told the story?" | State it. |
+| Stacked adjectives, hype words | "a haunting, lyrical epic" | Describe what happens in the book. |
 
-## What she avoids
-- Marketing words: spellbinding, must-read, epic, journey, unique, passionate, excited to.
-- Clusters of exclamation points. Hashtags in prose. Emoji in email.
-- Claims about sales, rankings, or being "the only" more than once per relationship.
-- Apologizing for self-publishing, for length, or for writing at all.
-- Pre-emptive surrender: "I understand if not," "no worries if you're busy," "I know you get a lot of these."
+## Shape of a first email (under 150 words)
+1. Why you're writing to them in particular (one sentence, specific).
+2. Who Helen is and what she's written, as it relates to them (one or two sentences).
+3. The request, plainly (one sentence).
+4. Any detail they need to decide: dates, format, what she'll provide.
+5. Sign-off and one link.
 
-## The template test (hard rules)
-1. No sentence may appear in more than two draft files. Every message is written for one reader.
-2. No draft reuses a bio sentence from `bios.md` verbatim. Say who she is in words shaped for this reader.
-3. The first sentence is about them, their work, or the history. Never about her.
-4. One ask, one sentence, with a graceful exit that is varied and never self-deprecating. Good exits:
-   "If it's not your season, I'll keep listening either way." / "If the slate is full, tell me when it opens."
-   / "No answer needed unless it's a yes." Bad exits: "no reply needed," "no pressure," "I understand if not."
-5. One piece of real knowledge per message, from `research/` or her books. Nothing invented. If a fact is
-   outside the research, bracket it for Helen.
-6. Under 160 words for a first email, under 90 for a follow-up, under 50 for a social reply.
-7. One link, at the end. Sign-offs: "Warmly, Helen" for people she knows; "Best, Helen Lundström Erwin"
-   for strangers; "Helen" alone for social.
-8. Read it aloud. If it sounds like a form, it is one.
+Example:
+> Hi Mark,
+>
+> I've listened to your episodes with novelists Danielle Giles and Bar Fridman-Tell, and I'd like to
+> suggest myself as a guest.
+>
+> I write historical fiction based on Swedish folklore and trial records. My latest novel, *The Lure of
+> Water and Wood*, follows two figures from Swedish folklore, Näcken and the Skogsrå, through the
+> sorcery trials of the 1600s and 1700s.
+>
+> A possible topic is the 1669 Mora witch trial. Accounts of it were printed across Europe, and it was
+> still being cited when the Salem trials began in 1692. Few English-language listeners have heard of it.
+>
+> I'm available most evenings, Eastern time. More about me is at helenerwin.com.
+>
+> Best,
+> Helen Lundström Erwin
 
-## Banned phrases (the style check fails on these)
-no reply needed · no pressure · I understand if not · I'd be glad to · I'd love to · happy to · reach out ·
-touch base · circle back · leverage · passionate · excited to · spellbinding · must-read · journey ·
-unique · I also built a 1918 café · Swedish-born historical novelist · no headset needed (use "nobody
-needs a headset" or "works in a browser" and say it once per relationship)
+## Social posts (under 50 words)
+One fact or observation, stated plainly, and why it's interesting. No hook phrasing, no question openers.
 
-## Positive by construction
-- Every message gives before it asks: a recommendation, a thank-you, a fact they can use.
-- Every message assumes the reader is busy and brilliant, and treats a "no" as information, not injury.
-- Where she can offer to do the work ("I'll bring the records," "I'll set it up"), she says so.
+## Sign-offs
+"Best, Helen Lundström Erwin" to people she hasn't met; "Best, Helen" or "Thanks, Helen" to people she knows.

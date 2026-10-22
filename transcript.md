@@ -75,3 +75,11 @@ Became the connect menu in `notes/menus.md`, `notes/connections.md`, three new C
 > If possible, these shouldn't be rigid scripted menus. It would be good if you generated them from the state of the project. Maintaining menu files is a good idea though, so long as they are fluid.
 
 `notes/menus.md` now opens with "Menus are generated, not scripted": a state table the assistant reads each session, composition rules, a worked example, the old menus relabeled as patterns, and a pattern log for keeping the file current.
+
+## 2026-10-23 — Dave, same session
+
+> There is copious use of ai-isms such as quirky three hours sentences and leading statements without any substance. Im not sure if you can understand this but this writing style turns off humans immediately. It doesn't convey information well and screams that a manipulative ai is trying to sell Them something.
+>
+> Can you write in a clear and concise human style?
+
+`materials/voice.md` replaced with a plain-writing standard and a banned-patterns table; `bin/style-check.sh` extended; all drafts, bios, book copy and talk topics rewritten; a chat-voice rule added to `CLAUDE.md`. The rewrite also found drafts describing *The Lure of Water and Wood* as being about the 1668 to 1676 witch hunt; corrected to the sorcery trials of the 1600s and 1700s.

@@ -25,50 +25,50 @@ He just did two episodes squarely in Helen's territory: forest spirits and hidde
 ## Drafts
 
 ### Touch 1 · comment or short note
-> Your Golden Rule reading of the hidden folk is how the Swedish court records describe the Skogsrå's bargains. She was fair to the men who were fair to her. The courts punished the fairness. Thank you for an episode that took the beings seriously as neighbours.
+> Your point that the hidden folk follow something like the Golden Rule matches how the Swedish trial records describe the Skogsrå. In the testimony, she treated men well if they treated her well, and the courts punished the men for the relationship. Thank you for the September episode.
 
 ### Touch 2 · Bluesky post, also shared with SWEA New York members
-> Swedish-Americans, here's your hour on trolls, forest spirits and the hidden folk: Nordic on Tap, 8 September. I write from the sorcery trials where those beings were named in court, and it still taught me two things. The Sápmi tales from July are worth your drive home too. [link]
+> For Swedish-Americans: the 8 September episode of Nordic on Tap covers trolls, forest spirits and the hidden folk in Nordic folklore. I write about these figures as they appear in the Swedish sorcery trials, and I learned from it. The July episode of humorous folktales is also worth hearing. [link]
 
-### Touch 3 · email, nothing asked
-Subject: A soldier, a forest woman, and a court clerk
+### Touch 3 · email, no request
+Subject: A source you might find useful
 
 Hi Eric,
 
-No request in this. After the forest-spirits episode I thought you'd enjoy a source I work from. In the 17th-century Svea court records, soldiers and farmers described their years with the Skogsrå in their own words, and the clerks wrote it all down: where they met her, what she asked for, how she turned when she left. [Helen: attach or name the published collection she uses.] The confessions are stranger and sadder than any folktale.
+After your forest-spirits episode, I thought you might like to know about a source I use. In the 17th-century Svea court records, soldiers and farmers described their relationships with the Skogsrå in their own words, including where they met her, what she asked of them, and how she left. [Helen: attach or name the published collection she uses.]
 
-I was born in Helsingborg, I live in New York, and I sit on the SWEA New York board, where I've been sending members to the show since the Ericsson episode.
+I was born in Helsingborg, live in New York, and am on the SWEA New York board. I've been recommending your show to members since the John Ericsson episode.
 
-Med vänliga hälsningar,
+Best,
 Helen Lundström Erwin
 helenerwin.com
 
 ### Touch 4 · email, the ask
-Subject: The forest spirit in court, for Nordic on Tap
+Subject: Guest suggestion for Nordic on Tap
 
 Hi Eric,
 
-Your forest-spirits episode is the reason I'm writing.
+I'm writing because of your episode on trolls and forest spirits, and I'd like to suggest myself as a guest.
 
-Sweden's witch hunt of 1668 to 1676 is usually told as devil-worship and child witnesses. The records tell a second story: people on trial for loving Näcken, the fiddler under the water, and the Skogsrå, the woman of the woods. My novel *The Lure of Water and Wood* lets the two of them narrate those years. I've also built Hanna's café from my suffrage novel in virtual reality, where Swedish-Americans meet for fika on Thursdays.
+Sweden's witch hunt of 1668 to 1676 is usually described in terms of devil worship and child witnesses. The records also include people tried for relationships with Näcken and the Skogsrå, and my novel *The Lure of Water and Wood* is narrated by those two figures. I also run The Foremothers Café, a virtual reality version of the café in my suffrage novel, where Swedish-Americans meet for fika on Thursdays.
 
-For your listeners I'd offer either the trials as the accused described them, or the Swedish folklore calendar: Easter witches, Walpurgis fires, the fiddler at midsummer.
+I could talk about the trials as the accused described them, or about the Swedish folklore calendar through the year.
 
-Tell me yes, no, or spring. Everything else is at helenerwin.com
+If spring works better for you, that's fine with me. You can find more at helenerwin.com.
 
 Best,
 Helen Lundström Erwin
 
 ### Touch 5 · follow-up, same thread
-Subject: Re: The forest spirit in court
+Subject: Re: Guest suggestion for Nordic on Tap
 
 Hi Eric,
 
-Easter is coming, and Swedish children will go door to door as witches on their way to Blåkulla, a straight line from the Mora trial of 1669 to a basket of sweets. If a spring episode could use that story, I'm free most evenings, Eastern time.
+With Easter coming, one more possible topic: Swedish children dress as witches and go door to door, a custom tied to the old belief in flights to Blåkulla that also appears in the Mora trial of 1669. My evenings are mostly free, Eastern time.
 
-If it doesn't fit, I'll go on sending listeners your way.
+Either way, I'll keep recommending the show.
 
-Warmly,
+Best,
 Helen
 
 ## Stop rule

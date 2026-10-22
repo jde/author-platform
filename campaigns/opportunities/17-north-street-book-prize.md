@@ -1,10 +1,10 @@
 # North Street Book Prize 2027 (Winning Writers)
 
 ## Goal
-Enter *The Lure of Water and Wood* in the 2027 North Street Book Prize if the rules admit a 2023 self-published book. A top prize of $23,500 and a Winning Writers feature for the winner.
+Enter *The Lure of Water and Wood* in the 2027 North Street Book Prize if the rules accept a self-published book from 2023. The top prize is $23,500, and Winning Writers features the winner.
 
 ## Why her
-The prize is for self-published and hybrid books, which fits Powersimple exactly. Genre categories exist for literary and genre fiction. [verify: whether there is a publication-year limit, the length limit (Lure is 752 pages), the fee, and the exact category list for 2027]
+The prize is for self-published and hybrid books, which includes books from Powersimple. It has categories for literary and genre fiction. [verify: whether there is a publication-year limit, the length limit (Lure is 752 pages), the fee, and the exact category list for 2027]
 
 ## Contact and mechanism
 - Site: winningwriters.com/our-contests/north-street-book-prize
@@ -28,14 +28,14 @@ The prize is for self-published and hybrid books, which fits Powersimple exactly
 
 ## Drafts
 
-### Category choice, her reasoning
-Genre Fiction, and inside it Fantasy, with the historical basis stated in the description so a judge who reads "fantasy" doesn't picture elves. If the 2027 form splits fantasy from historical, it goes in Fantasy; the trial records are the spine, but the narrators are spirits, and that's what a reader meets on page one. [verify category names in February]
+### Category choice
+Genre Fiction, under Fantasy if that subcategory exists, with the historical basis stated in the description so judges know what kind of fantasy it is. If the 2027 form lists fantasy and historical fiction separately, enter it in Fantasy, because the narrators are spirits even though the story is based on trial records. [verify category names in February]
 
 ### Entry description, adapt to the form's limit
-*The Lure of Water and Wood* is a historical fantasy set in Sweden between 1600 and 1800, narrated by Näcken and the Skogsrå, the water and forest spirits whose supposed lovers were tried for sorcery. Built on the Mora and Älvdalen trial records, it treats the folklore as the accused lived it. Self-published through Powersimple LLC and distributed by IngramSpark, 2023, 752 pages. Author: Helen Lundström Erwin, born in Helsingborg, living in New York; Historical Novel Society New York chapter steering committee; 2026 Auggie Award finalist for The Foremothers Café.
+*The Lure of Water and Wood* is a historical fantasy set in Sweden between 1600 and 1800, narrated by Näcken and the Skogsrå, the water and forest spirits whose supposed lovers were tried for sorcery. It is based on the Mora and Älvdalen trial records. Self-published through Powersimple LLC and distributed by IngramSpark, 2023, 752 pages. Author: Helen Lundström Erwin, born in Helsingborg, living in New York; Historical Novel Society New York chapter steering committee; 2026 Auggie Award finalist for The Foremothers Café.
 
-### Note to self for the February check
-Five things to pull from the rules page before paying anything: the publication-year limit, the page or word limit, the fee, whether a prior award entry disqualifies, and whether the author must hold all rights. She does hold them, which is the one answer already known.
+### Note for the February check
+Check five things on the rules page before paying: the publication-year limit, the page or word limit, the fee, whether a prior award entry disqualifies a book, and whether the author must hold all rights. Helen holds all rights, so the last condition is already met.
 
 ## Follow-up rule
 None. Enter and wait for the published results date.

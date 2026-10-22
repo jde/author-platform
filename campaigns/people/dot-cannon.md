@@ -20,37 +20,35 @@ A host who covered the café directly. The museum-in-VR story has moved on since
 ## Drafts
 
 **Touch 1**
-Subject: An update over imaginary coffee
+Subject: An update on the café
 
 Dot,
 
-You asked sharper questions about the café than most people in XR did, so here's where it stands. It lives on ENGAGE now, seventy seats, works in a browser; it was a Best Indie Creator finalist at the Auggies in June; and the American Historical Association listed it this year as a venue for historians.
+You asked good questions about the café on Over Coffee, so I wanted to tell you where it is now. It runs on ENGAGE, holds seventy people, and works in a web browser. It was a Best Indie Creator finalist at the Auggies in June, and the American Historical Association listed it this year as a venue for historians.
 
-Nothing to do with any of that. I just owed you the follow-up.
-
-Warmly,
+Best,
 Helen
 
 **Touch 2**
-Subject: 30 November
+Subject: Foremothers Day on the 30th
 
 Dot,
 
-Foremothers Day is on the 30th in the café. [One line on the program.] Come as a guest if the afternoon is free; I'll send a two-minute route in.
+Foremothers Day is in the café on November 30. [One line on the program.] You're welcome to come as a guest if you're free that afternoon, and I'll send instructions for getting in.
 
 theforemotherscafe.com
 
-Warmly,
+Best,
 Helen
 
 **Touch 3**
-Subject: What a museum is when it has no door
+Subject: An idea for an Over Coffee episode
 
 Dot,
 
-A 2027 conversation idea, for Over Coffee or for nobody: cultural institutions that exist only in VR, with the café as the test case. What it costs to run, who actually shows up on a Thursday, what counts as an exhibition when there's no wall to hang it on. If that's a show you'd make, I'm in. Either way, the show stays in my rotation.
+Here is an idea for a 2027 episode: museums and cultural centers that exist only in VR, with the café as the example. We could cover what it costs to run, who comes on a Thursday, and how exhibitions work without physical walls. If you'd like to make that episode, I'd like to be on it.
 
-Warmly,
+Best,
 Helen
 
 ## Stop rule

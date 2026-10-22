@@ -1,10 +1,10 @@
 # Historical Novel Society North America Conference 2027
 
 ## Goal
-A panel or presentation slot at HNS2027, June 17 to 19, 2027, Omni William Penn, Pittsburgh. Secondary goal: attend regardless, with books in the conference bookstore.
+A panel or presentation slot at HNS2027, June 17 to 19, 2027, at the Omni William Penn in Pittsburgh. Secondary goal: attend regardless, with her books stocked in the conference bookstore.
 
 ## Why her
-The biennial conference is the largest gathering of historical novelists in North America. Helen is on the steering committee of the New York chapter and has read at its open mic. Two topics are hers alone: folklore beings as narrators of documented trials, and a novel's setting rebuilt in VR. Nobody else on the program will have built a museum from a book.
+The biennial conference is the largest gathering of historical novelists in North America. Helen is on the steering committee of the New York chapter and has read at its open mic. She has two topics other proposers are unlikely to cover: folklore beings as narrators of documented trials, and rebuilding a novel's setting in VR.
 
 ## Contact and mechanism
 - Site: hns-conference.com. Call for proposals not posted as of 2026-10-21. Join the mailing list first.
@@ -33,21 +33,21 @@ The biennial conference is the largest gathering of historical novelists in Nort
 ## Drafts
 
 ### Proposal A, panel
-Title: The Accused Were Spirits: Writing from Witch-Trial Records When the Witnesses Lied
+Title: Writing from Witch-Trial Records
 Format: 60-minute panel, three or four novelists and a moderator
-Description (120 words): Trial transcripts are the richest and least trustworthy sources a historical novelist can open. Confessions were coerced, children's testimony followed a script, and in Sweden the charge was loving a water spirit. This panel gathers novelists who built books from witch-trial and sorcery-trial records and asks the working questions: how do you treat a confession under duress as evidence, how do you give the accused agency without pretending the terror was theater, and what do you do when the folklore in the record is more alive than the law? Helen Lundström Erwin (*The Lure of Water and Wood*, Sweden 1600 to 1800) moderates. Proposed panelists: [Beth Caruso, Connecticut Witch Trials Trilogy; Greg Houle, Salem; a third to confirm].
-Takeaway: a method for reading hostile sources, and a reading list that crosses the Atlantic.
+Description (120 words): Trial transcripts are among the most detailed sources available to historical novelists, and among the least reliable. Confessions were coerced, and children's testimony followed a set list of questions. In Sweden, some defendants were charged with relations with a water spirit. This panel brings together novelists who have built books from witch-trial and sorcery-trial records. It covers how to use a confession made under duress as evidence, how to give the accused agency without minimizing what happened to them, and how to handle folklore that appears in legal records. Helen Lundström Erwin (*The Lure of Water and Wood*, Sweden 1600 to 1800) moderates. Proposed panelists: [Beth Caruso, Connecticut Witch Trials Trilogy; Greg Houle, Salem; a third to confirm].
+Takeaway: methods for reading hostile sources, and a reading list covering trials in Europe and North America.
 
 ### Proposal B, solo session
-Title: I Built My Setting in VR: What a Novelist Learns When Readers Walk Into the Book
-Format: 45-minute session with a live two-minute walk through The Foremothers Café
-Description (110 words): In 2022 Helen Lundström Erwin rebuilt a setting from her suffrage novel *Sour Milk in Sheep's Wool* as a working room in virtual reality. Hanna's café, Lund, 1918, is now a women's history museum with a weekly fika, exhibitions and a discussion series, and a 2026 Auggie Award finalist. She began with a colored-pencil drawing; the historical argument with her world-builder started there. This session covers what the build cost in months and money, what readers do once they are standing inside a book, which period details survived and which did not, and how a VR room changed the way she writes rooms on the page. Attendees watch the walkthrough on the screen; a headset is not required.
+Title: Rebuilding a Novel's Setting in Virtual Reality
+Format: 45-minute session with a two-minute live tour of The Foremothers Café
+Description (110 words): In 2022 Helen Lundström Erwin rebuilt a setting from her suffrage novel *Sour Milk in Sheep's Wool* in virtual reality. Hanna's café in Lund, 1918, is now a women's history museum with a weekly fika, exhibitions, and a discussion series, and was a 2026 Auggie Award finalist. The project started from a colored-pencil drawing she made. This session covers what the build cost in time and money, what visitors do in the space, which period details worked and which didn't, and how the project changed the way she writes settings. The tour is shown on screen, so attendees don't need a headset.
 
 ### Cover note, if the form has a free-text field
-I serve on the steering committee of the HNS New York chapter and have read from *The Lure of Water and Wood* at our Jefferson Market Library open mic. I've presented on building historical worlds in VR at AWE USA 2024 and Immersive X, and talked about the books on Folkloring and Women of HERstory. I'm available all three days and need nothing beyond a laptop connection.
+I serve on the steering committee of the HNS New York chapter and have read from *The Lure of Water and Wood* at the chapter's open mic at the Jefferson Market Library. I've spoken about building historical settings in VR at AWE USA 2024 and Immersive X, and I've been interviewed about my books on the Folkloring and Women of HERstory podcasts. I'm available all three days and only need a laptop connection for the session.
 
 ### Note to Susan Wands, after the October 29 program
-Susan, two questions you may know the answer to before the website does: will HNS2027 run an open call for proposals, and who chairs programming this time? I want to propose a panel on reading witch-trial records and a session on the café, and I'd rather send them to a person than a form. If you'd look at the drafts over coffee I'll bring the coffee.
+Susan, do you know whether HNS2027 will have an open call for proposals, and who is chairing programming? I'd like to propose a panel on writing from witch-trial records and a session on the café, and I'd rather send them to a person than through a form. I'd also value your comments on the drafts if you have time.
 
 ## Follow-up rule
 Check the conference site weekly until the call opens. After submitting, no follow-up until the published decision date. If declined, attend anyway and ask the program chair for feedback in person.

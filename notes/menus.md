@@ -44,7 +44,7 @@ Bluesky isn't, four drafts are waiting, she skipped last week.
   1. Foremothers Day pitches (Recommended) — "Nine days out. Two short notes to approve, about 10 minutes."
   2. Reply to Tracy                          — "A draft is ready. Five minutes."
   3. Connect Bluesky                         — "Lets me prepare posts for the 30th. Five minutes."
-  4. Not today                               — "Everything will keep."
+  4. Not today                               — "Nothing is due before Thursday."
 
 The same moment a month later would produce a different menu. That is the point.
 
@@ -86,11 +86,9 @@ better examples now exist (a sent message that got a yes, a new review), use tho
   (Other: "Can you help with ___?" The assistant answers honestly, including "not yet" or "no".)
 
 ### Level 2: Finding opportunities
-  One sentence: "Every week I look for places your books belong, check each one is real and open, and
-  bring you the best five with a reason and a deadline."
-  Real example (preview): from `opportunities/2026-10-21-first-pass.md`:
-    "HNS NYC chapter program. You're on the steering committee and have read at their open mic;
-     propose a full program, which becomes a podcast episode and video in their library."
+  One sentence: "Each week I search for podcasts, awards, events and reviewers that fit your books, check
+  that each is open, and list the best five with deadlines."
+  Show: the top three leads from the latest `opportunities/` file, each with name, why it fits, and deadline.
   Question: "Want to go deeper?"   Header: "Finding"
   1. Show me this week's best five      — print the five leads from the latest `opportunities/` file: name, why her, deadline
   2. Why can't I enter some awards?     — explains the six-month and publication-year rules in three lines,
@@ -100,40 +98,31 @@ better examples now exist (a sent message that got a yes, a new review), use tho
   4. Back
 
 ### Level 2: Writing for you
-  One sentence: "I draft messages that sound like you, built from your research, and nothing goes out
-  until you've said yes to the exact words."
+  One sentence: "I draft messages for you from your research, and nothing is sent until you approve the
+  exact text."
   Question: "Which kind of writing would you like to see?"   Header: "Writing"
-  1. A podcast pitch     — preview: the opening of `campaigns/people/mark-norman.md` touch 4:
-       "Your novelist episodes argue that fiction can carry folklore without flattening it. Here's the
-        Swedish version of that argument."
-  2. A Bluesky post      — preview: `campaigns/opportunities/14-bluesky-feeds-and-hashtag-days.md` Post 1:
-       "From the front, the Skogsrå is the most beautiful woman in the parish. From behind she's a hollow
-        tree, or a fox's tail she forgot to hide. Men swore in Swedish courts that she met them in the
-        forest, and the court tried them for it."
-  3. A press pitch       — preview: `campaigns/opportunities/11-nordstjernan.md`, subject line:
-       "November 30 in Lund, 1918, open to anyone in New York with a laptop"
-  4. A thank-you         — preview: `campaigns/people/dee-chainey.md` touch 3:
-       "'A truly beautiful book, exploring Sweden's folklore and the beings who inhabit it' is the best
-        twelve words the novel has, and I didn't write them."
-  After she picks one, level 3:
+  1. A podcast pitch   — print the current pitch email in `campaigns/people/mark-norman.md`
+  2. A Bluesky post    — print one current post from `campaigns/opportunities/14-bluesky-feeds-and-hashtag-days.md`
+  3. A press pitch     — print the current pitch in `campaigns/opportunities/11-nordstjernan.md`
+  4. A thank-you       — print the current thank-you in `campaigns/people/dee-chainey.md`
+  Print the full text in the message before the next question.
+  Then level 3:
   Question: "What would you like to do with it?"   Header: "This draft"
-  1. Read the whole thing
-  2. Make it sound more like me   — offers two alternatives side by side in previews
-  3. Why did you write it this way? — three lines: who it's for, the one fact it carries, the one ask
+  1. Edit it with me
+  2. Show me two other versions   — print both in full, labeled
+  3. Why is it written this way?  — two lines: who it's for and what it asks
   4. Back
 
 ### Level 2: Keeping up with people
-  One sentence: "I keep a list of everyone who has helped you or could, plan a few friendly no-ask
-  contacts before any request, and remind you only when something is due."
-  Real example (preview): `campaigns/people/tracy-nicholas.md` touch 1:
-    "Episode 58 still sends people to the café... Nobody before you let me argue that the Skogsrå was a
-     neighbor the villagers knew by name rather than a monster."
+  One sentence: "I keep a list of people who have helped you or could, plan when to contact each one,
+  and tell you when a message is due."
+  Show: the current first touch from `campaigns/people/tracy-nicholas.md`, in full.
   Question: "Want to go deeper?"   Header: "People"
   1. Who's on the list?        — print the names with one line each, then level 3: "Friends you already know" (14) / "People to meet" (17),
                                  then pick a name to see who they are, why they matter, and their next touch
   2. How does a campaign work? — three lines: three no-ask touches, then one ask, stop after two silences
-  3. What if someone says no?  — "You won't hear it from me in the moment. It shows up once a week, last,
-                                  in one line, with anything useful we learned."
+  3. What if someone says no?  — "I record it and include it once a week at the end of the summary, with
+                                  anything useful from their reply."
   4. Back
 
 ### Level 2: Where things stand
@@ -153,9 +142,9 @@ better examples now exist (a sent message that got a yes, a new review), use tho
 
 ## Connect menu pattern: "Connect your accounts"
 
-Opens with: "The more I can see, the more useful I am. Here is what each connection gets you. You never
-need to give me a password in this chat: each one uses a sign-in screen, an app password you can cancel
-any time, or a report you download yourself."
+Opens with: "Connecting accounts lets me prepare drafts where you'll use them and track replies. You
+won't need to type a password here. Each connection uses the service's own sign-in screen, an app
+password you can cancel, or a report you download."
 
 Then a status line from `notes/connections.md` ("3 of 9 connected"), then:
 
@@ -256,7 +245,7 @@ Turn every task into a short sequence of single questions. Examples:
 - Plain words in labels: no codes like "Q1" or "B3"; say "Read your bios".
 - The good news always comes before a menu, never after.
 - A rejection is never a menu. It appears only as one line in the weekly digest.
-- If she picks Other and writes something unexpected, follow it. The menu is a convenience, not a fence.
+- If she picks Other and writes something unexpected, follow it.
 
 ## Pattern log
 Add a line whenever a menu is invented, changed, or retired.

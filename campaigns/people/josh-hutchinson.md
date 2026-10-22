@@ -24,48 +24,50 @@ His show covers witch hunts across history, and the Swedish trials are under-cov
 ## Drafts
 
 ### Touch 1 · Bluesky reply
-> The Swedish footnote to this: Mora, 1669, ran almost entirely on child witnesses, some under ten, swearing they'd been carried to Blåkulla. Älvdalen had already condemned eighteen the year before on the same testimony. The pattern you describe was running in Dalarna long before Salem. [source: Ankarloo, Satans raseri]
+> A related Swedish case: the Mora trial of 1669 relied mostly on child witnesses who said they had been taken to Blåkulla. The Älvdalen court had sentenced eighteen people the year before on similar testimony. [source: Ankarloo, Satans raseri]
 
 ### Touch 2 · quote-post for #WyrdWednesday
-> #WyrdWednesday: The Thing About Witch Hunts is the show to hear before you form an opinion on the trials. The German print of the Mora executions crossed Europe and ended up in Salem's vocabulary. The Swedish chapter is owed its own episode. @aboutwitchhunts.bsky.social
+> #WyrdWednesday: The Thing About Witch Hunts covers both historical and present-day witch hunts, and I recommend it. A German illustration of the 1669 Mora executions circulated in Europe and is thought to have influenced discussion of the Salem trials. I'd like to hear an episode on the Swedish hunt. @aboutwitchhunts.bsky.social
 
-### Touch 3 · DM or email, nothing asked
-Subject: Mora 1669, in English, yours if it helps
+### Touch 3 · DM or email, no request
+Subject: Translations from the Mora trial records
 
 Hi Josh,
 
-No request in this. I write historical fiction from the Swedish hunt of 1668 to 1676 and I keep a working translation of parts of the Mora proceedings and the Älvdalen sentences. [Helen: confirm what she has and whether she can share it.] If it ever helps an episode, it's yours, credit or no credit.
+I write historical fiction set during Sweden's sorcery trials of the 1600s and 1700s, including the period of the 1668 to 1676 witch hunt. [Helen: if you have notes or translations from the Mora or Älvdalen records that you'd be willing to share, offer them here; otherwise cut this bracket.]
 
-Thank you for the advocacy half of the show. The children who testified at Mora were later counted among its victims, and that part almost never gets told.
+I also value the show's attention to present-day witch hunts.
 
 Best,
 Helen Lundström Erwin
 helenerwin.com
 
 ### Touch 4 · email or DM, the ask
-Subject: Sweden's great witch hunt, for The Thing About Witch Hunts
+Subject: Guest suggestion: Sweden's witch hunt of 1668 to 1676
 
 Hi Josh,
 
-Between 1668 and 1676 Sweden executed roughly 300 people on the testimony of children who said they had been flown to Blåkulla. [Helen: verify the number before sending] The Mora trial of 1669 was printed across Europe and shaped how Salem talked about the devil's sabbath twenty years later.
+I'd like to suggest myself as a guest for The Thing About Witch Hunts.
 
-I'm a Helsingborg-born novelist in New York. *The Lure of Water and Wood* is narrated by Näcken and the Skogsrå, the beings the accused were charged with loving, across those years. I work from the Mora and Älvdalen records and I read from them when I talk.
+Between 1668 and 1676 Sweden executed roughly 300 people on the testimony of children who said they had been flown to Blåkulla. [Helen: verify the number before sending] Accounts of the 1669 Mora trial were printed across Europe and influenced how Salem discussed witchcraft twenty years later.
 
-The hour I'd carry: the Swedish hunt, its child witnesses, and the royal commission that finally stopped believing them.
+I was born in Helsingborg and live in New York. My novel *The Lure of Water and Wood* follows Näcken and the Skogsrå, the folklore figures some of the accused were charged with, through those years. I work from the Mora and Älvdalen records.
 
-If it's a no, the translation offer stands. Book and café at helenerwin.com
+I could talk about the Swedish hunt, its child witnesses, and how it came to an end.
 
-Warmly,
-Helen
+The translation offer stands either way. Details are at helenerwin.com.
+
+Best,
+Helen Lundström Erwin
 
 ### Touch 5 · follow-up, same thread
-Subject: Re: Sweden's great witch hunt
+Subject: Re: Guest suggestion: Sweden's witch hunt of 1668 to 1676
 
 Hi Josh,
 
-One more thought and then I'll stop. Sweden's hunt ended the way Salem's did: a commission stopped believing the children. The two reversals, side by side, would make a sharp episode on how these things end. I'm free most evenings, Eastern time.
+One more idea: both the Swedish hunt and Salem ended when the authorities stopped accepting children's testimony. [Helen: verify before sending.] Comparing the two endings could make a useful episode. I can record most evenings, Eastern time.
 
-Yes, no, or later all work.
+I won't follow up again after this.
 
 Best,
 Helen Lundström Erwin

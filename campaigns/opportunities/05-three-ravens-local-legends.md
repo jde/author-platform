@@ -31,28 +31,26 @@ Three Ravens is hosted by Eleanor Conlon and Martin Vaux, recording in rural Sus
 ## Drafts
 
 ### Pitch email
-Subject: A Local Legends cousin from across the North Sea
+Subject: Local Legends suggestion: Swedish forest and water spirits
 
 Hi Eleanor and Martin,
 
-Your Local Legends with Sacha Coward had me laughing on the train and then checking my notes, because the Swedish forest has a figure who belongs in *Queer As Folklore*: the Skogsrå, a woman from the front and a hollow tree from behind, who took men as lovers and sent them home strange.
+I enjoyed your Local Legends episode with Sacha Coward, and I'd like to suggest a comparative episode on Swedish folklore.
 
-The difference in Sweden is that the courts believed it. At Älvdalen in 1668 and Mora in 1669, people were tried for exactly those liaisons, and the children's testimony about Blåkulla became the pattern for every trial that followed. *The Lure of Water and Wood* hands the proceedings to the Skogsrå and to Näcken, the fiddler in the river.
+I write historical fiction based on Swedish folklore and trial records. The Skogsrå is a Swedish forest spirit described as a beautiful woman with a hollow back, and Näcken is a water spirit who plays the fiddle. In the 1600s, Swedish courts tried people for having relations with them. At Älvdalen, thirty people were tried and eighteen sentenced, and at Mora in 1669 children's testimony about Blåkulla led to executions. My novel *The Lure of Water and Wood* is narrated by these two spirits during the trials.
 
-A comparative Local Legends, Sussex water against Swedish water, is the episode I'd most like to make with you. [Helen: mention Mark Norman if his reply has come in.] If the calendar's spoken for, a word on when it reopens would be plenty.
+An episode could compare them with the forest and water spirits of Sussex and Wales. [Helen: mention Mark Norman if his reply has come in.] I'm in New York, so a weekend morning your time may be easiest for recording.
 
 Best,
 Helen Lundström Erwin
 helenerwin.com
 
 ### Follow-up
-Subject: Re: a cousin from across the North Sea
+Subject: Re: Local Legends suggestion: Swedish forest and water spirits
 
 Hi Eleanor and Martin,
 
-If a whole comparative episode strays too far from your counties, the Mora case of 1669 stands on its own: the English press reported it at the time, so it's half a local legend already.
-
-Only write back if it's a yes.
+I'm following up on my earlier note. If a comparative episode is too far from your usual regions, I could instead talk about the Mora trial of 1669 on its own. Let me know if either idea would work.
 
 Best,
 Helen
@@ -60,15 +58,16 @@ Helen
 ### Thank-you
 Subject: Thank you
 
-Hi both,
+Hi Eleanor and Martin,
 
-Thank you for today. [Helen: specific.] I'll post the episode the morning it's out and tag you both. The Skogsrå would like it known that she has never been to Sussex and now intends to go.
+Thank you for having me on Local Legends. [Helen: specific.] I'll share the episode when it's out and tag you both.
 
-Warmly,
+Best,
 Helen
 
 ### Social reply (under 50 words)
-[Helen: name this week's Sussex water spirit] has a Swedish relative. Näcken plays the fiddle at the millrace and takes a drowning as his fee. Same water, different instrument. Loved this one.
+Sweden has a similar water spirit, Näcken, who plays the fiddle by rivers and lures people into the water. [Helen: name this week's Sussex water spirit] and Näcken have a lot in common.
+
 ## Follow-up rule
 One follow-up at 14 days. Stop at 28 days. Retry once in March 2027 with the Easter-witch hook if there was no answer.
 

@@ -25,50 +25,50 @@ The only podcast found that is Nordic-only and interview-based. No novelist gues
 ## Drafts
 
 ### Touch 1 · reply on the podcast's platform or social
-> The *Tungl* episode is the best hour I've spent on the sound of the North in years. In every Swedish trial record I've read, Näcken is a fiddler first and a drowner second. The courts believed the music was the lure. The accused agreed.
+> I enjoyed the *Tungl* episode. In the Swedish trial records I work from, Näcken is described mainly as a fiddler, and the courts treated his music as the way he drew people in. [Helen: one sentence connecting this to something said in the episode.]
 
 ### Touch 2 · #FolkloreThursday post
-> #FolkloreThursday: Mora, 1669. The first mass execution of Sweden's witch hunt, built on children's testimony about night flights to Blåkulla, printed across Europe within the year. For the Nordic side of these stories done properly, the Nordic Mythology Podcast is where I send people. [link]
+> #FolkloreThursday: The Mora trial of 1669 was the first mass execution of Sweden's witch hunt. It relied on children's testimony about being taken to Blåkulla, and accounts of it were printed across Europe. The Nordic Mythology Podcast covers the stories of this region in depth. [link]
 
-### Touch 3 · email, nothing asked
-Subject: A scribe I owe you an apology to
+### Touch 3 · email, no request
+Subject: Thank you for [episode title]
 
 Hi Daniel,
 
-Nothing to ask. I wanted to tell you that [episode title] fixed an error of mine. [Helen: the specific point.] I had put a detail in the Älvdalen sentences of 1668 down to a careless scribe. Your guest explained it, and it was the scribe who was right and me who was careless.
+Your episode [episode title] corrected a mistake of mine. [Helen: the specific point.] I had blamed a detail in the 1668 Älvdalen sentences on a careless clerk, and your guest's explanation showed me the clerk had recorded it correctly.
 
-I write historical fiction from the Swedish sorcery trials, and the show has become my recommended listening for the writers in my Historical Novel Society chapter in New York.
+I write historical fiction from the Swedish sorcery trials, and I recommend the show to the writers in my Historical Novel Society chapter in New York.
 
-Warmly,
+Best,
 Helen
 helenerwin.com
 
 ### Touch 4 · email, the ask
-Subject: The Swedish hunt, told by the beings on trial
+Subject: Guest suggestion: Sweden's witch hunt, 1668 to 1676
 
 Hi Daniel,
 
-Your guests get to go deep instead of wide. I have a deep one.
+I'd like to suggest myself as a guest for the Nordic Mythology Podcast.
 
-Sweden's great witch hunt ran from 1668 to 1676. It began in Älvdalen with a shepherd girl's accusation, reached Mora in 1669, and produced the printed account that later gave Salem its vocabulary. Many of the accused were charged with keeping company with Näcken and the Skogsrå. My novel *The Lure of Water and Wood* hands the narration to those two beings. I was born in Helsingborg, live in New York, and work from the Mora and Älvdalen records.
+Sweden's witch hunt ran from 1668 to 1676. It began in Älvdalen with a shepherd girl's accusation and reached Mora in 1669. Many of the accused were charged with relationships with Näcken and the Skogsrå, and my novel *The Lure of Water and Wood* is narrated by those two figures. I was born in Helsingborg, live in New York, and work from the Mora and Älvdalen records.
 
-An hour on the trials as the accused described them, or a lighter one on the Swedish folklore year, Easter witches to midsummer fiddlers.
+I could talk about the trials as the accused described them, or about the Swedish folklore calendar, from the Easter witches to Näcken at midsummer.
 
-If this isn't the right desk, point me at the right one. Details at helenerwin.com
+If someone else books your guests, I'd be grateful for their name. My books are listed at helenerwin.com.
 
 Best,
 Helen Lundström Erwin
 
 ### Touch 5 · follow-up, same thread
-Subject: Re: The Swedish hunt, told by the beings on trial
+Subject: Re: Guest suggestion: Sweden's witch hunt, 1668 to 1676
 
 Hi Daniel,
 
-Two calendar hooks in case either helps you plan: midsummer, which is Näcken's night by every riverbank in Sweden, and Easter week, which is Blåkulla's. I can do either season on an evening that suits you.
+Two times of year that might help with planning: Easter, when Swedes still mark the witches' flight to Blåkulla, and midsummer, which folklore associates with Näcken. I could record for either season on an evening that suits you.
 
-A yes gets dates by return. A no gets no third email.
+This is my last note on it unless you'd like to go ahead.
 
-Warmly,
+Best,
 Helen
 
 ## Stop rule

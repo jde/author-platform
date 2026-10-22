@@ -19,15 +19,13 @@ Early XR-industry supporter from before the café existed. A reconnect keeps a d
 ## Drafts
 
 **Touch 1**
-Subject: You interviewed me before the café existed
+Subject: An update since our 2021 interview
 
 Julie,
 
-In 2021 you asked me about a novel with a café in it, and you were the first person in XR to treat the idea as more than a novelty. The café is a women's history museum on ENGAGE now and was an Auggie finalist this year.
+In 2021 you interviewed me about a novel with a café in it, and you were one of the first people in XR to take the idea seriously. That café is now a women's history museum on ENGAGE, and it was an Auggie finalist this year. I wanted to thank you and let you know.
 
-Thank you, with some news attached and nothing else.
-
-Warmly,
+Best,
 Helen
 
 **Touch 2 (LinkedIn comment, under 50 words)**

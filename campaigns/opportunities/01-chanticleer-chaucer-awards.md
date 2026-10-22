@@ -4,7 +4,7 @@
 Enter *The Lure of Water and Wood* in the Chaucer Awards and reach at least the shortlist. A placement gives a sticker, a listing on chantireviews.com, and a line for every later pitch.
 
 ## Why her
-The Chaucer category covers pre-1750 historical fiction, including "1600s." Lure runs from the 1600s into the 1700s and is built on real trial records from Mora and Älvdalen. The sister Goethe Awards accept books published after December 31, 2021, which suggests the 2023 publication date is still inside Chanticleer's window. This is the one major historical fiction award whose window appears to still include her newest novel.
+The Chaucer category covers pre-1750 historical fiction, including "1600s." Lure runs from the 1600s into the 1700s and is built on real trial records from Mora and Älvdalen. The sister Goethe Awards accept books published after December 31, 2021, which suggests the 2023 publication date is still inside Chanticleer's window. It appears to be the only major historical fiction award still open to her newest novel.
 
 ## Contact and mechanism
 - Entry page: [verify at chantireviews.com; the Chaucer page returned 403 when fetched]
@@ -33,28 +33,29 @@ The Chaucer category covers pre-1750 historical fiction, including "1600s." Lure
 ## Drafts
 
 ### Award cover note (paste where the entry form allows a description)
-*The Lure of Water and Wood*. Sweden, 1600 to 1800. Narrated by Näcken, the fiddler in the river, and the Skogsrå, the woman of the woods: the two beings whose human lovers stood trial in the sorcery courts. Drawn from the Mora and Älvdalen proceedings and the Svea court records, read from the defendants' bench. 752 pages. Powersimple LLC, 2023. ISBN 978-0-9862666-6-9. Helen Lundström Erwin sits on the steering committee of the Historical Novel Society's New York chapter and was a 2026 Auggie Award finalist.
+*The Lure of Water and Wood* is a historical fantasy set in Sweden between 1600 and 1800. It is narrated by Näcken and the Skogsrå, two figures from Swedish folklore, and follows the sorcery trials in which people were accused of having relations with them. The novel draws on records of the Mora and Älvdalen trials and the Svea court. 752 pages. Powersimple LLC, 2023. ISBN 978-0-9862666-6-9. Helen Lundström Erwin is on the steering committee of the Historical Novel Society's New York chapter and was a 2026 Auggie Award finalist.
 
 ### Eligibility question (only if the publication-date rule is unclear on the site)
-Subject: Does a 2023 title fit the Chaucer window?
+Subject: Is a 2023 novel eligible for the Chaucer Awards?
 
 Hello,
 
-The Goethe rules draw their line at December 31, 2021. The Chaucer page doesn't show me the matching line, so I'm asking before I pay.
+I'd like to enter a novel in the Chaucer Awards and want to confirm eligibility first. The Goethe Awards page says books published after December 31, 2021 qualify, but I couldn't find the same rule on the Chaucer page.
 
-*The Lure of Water and Wood* was published November 22, 2023 by Powersimple LLC. Sweden, the 1600s and 1700s, the sorcery trials, 752 pages. Does it qualify for the current cycle, and when does entry close?
+The book is *The Lure of Water and Wood*, published November 22, 2023 by Powersimple LLC. It is set in Sweden in the 1600s and 1700s during the sorcery trials and runs 752 pages.
 
-Thank you for keeping a category for the centuries before 1750. Not many awards do.
+Is it eligible for the current cycle, and what is the entry deadline?
 
 Best,
 Helen Lundström Erwin
 helenerwin.com
 
 ### Bluesky post on entry (under 50 words)
-*The Lure of Water and Wood* is entered in the Chanticleer Chaucer Awards for pre-1750 historical fiction. Näcken and the Skogsrå have now faced a Dalarna court and a judging panel. The court was the harsher of the two.
+I've entered *The Lure of Water and Wood* in the Chanticleer Chaucer Awards, which cover historical fiction set before 1750. The novel is set during the Swedish sorcery trials of the 1600s and 1700s.
 
 ### Bluesky post if shortlisted (under 50 words)
-Shortlisted: *The Lure of Water and Wood*, Chaucer Awards, pre-1750 historical fiction. To everyone who carried 752 pages of Swedish forest home from the shop: thank you. Näcken is learning a new tune for the occasion.
+*The Lure of Water and Wood* is on the shortlist for the Chanticleer Chaucer Awards for pre-1750 historical fiction. Thank you to everyone who has read it and left a review.
+
 ## Follow-up rule
 No nudging an award. If the eligibility email gets no reply in 7 days, submit anyway if the deadline allows. Check the Chanticleer results page on each announced date rather than emailing.
 

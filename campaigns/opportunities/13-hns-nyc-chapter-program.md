@@ -1,10 +1,10 @@
 # Historical Novel Society New York chapter — a full program
 
 ## Goal
-A chapter program in early 2027 featuring Helen, recorded to the chapter's video library and podcast, with a live walk through The Foremothers Café. Secondary goal: make the program the model for the HNS2027 conference proposal.
+A chapter program in early 2027 featuring Helen, recorded for the chapter's video library and podcast, including a live tour of The Foremothers Café. Secondary goal: use the program as a trial run for the HNS2027 conference proposal.
 
 ## Why her
-Helen is on the chapter's steering committee and has read at its Jefferson Market Library open mic. The chapter records programs to video and audio and posts them on YouTube, Spotify and its podcast page, so one evening becomes a permanent, shareable asset. The warmest door on the list.
+Helen is on the chapter's steering committee and has read at its open mic at the Jefferson Market Library. The chapter records its programs and posts them on YouTube, Spotify, and its podcast page, so one evening produces a recording she can share afterward. Of all the opportunities on the list, this is the one where she is already best known.
 
 ## Contact and mechanism
 - Events (live, Zoom, hybrid): events@hnsnyc.org
@@ -33,40 +33,40 @@ Helen is on the chapter's steering committee and has read at its Jefferson Marke
 ## Drafts
 
 ### Thank-you to Lisa after October 29, in person or a short note
-Lisa, thank you for tonight. [One specific thing from Cursed Bloodlines.] You've sent me back to my sorcery trials with a new question: the fear in those transcripts is real even where the confessions aren't, and I hadn't thought of that as horror's territory until you said it. Let's make a program out of that thread this winter.
+Lisa, thank you for tonight's program. [One specific thing from Cursed Bloodlines.] It made me think about the fear in the Swedish sorcery-trial transcripts, which is real even where the confessions aren't. I'd like to talk with you about a chapter program on that subject this winter.
 
 ### Proposal to Susan and Lisa, copying events@hnsnyc.org
-Subject: A chapter program for early 2027: folklore on trial, then a walk into the book
+Subject: Proposed chapter program for early 2027: writing from Swedish sorcery-trial records
 
 Susan and Lisa,
 
-Cursed Bloodlines is still with me, which is the best argument for the program I want to propose. Edit it however you like before it goes to the committee.
+I'd like to propose a chapter program for early 2027. Please edit it as needed before it goes to the committee.
 
-Title: The Accused Were Spirits.
-Shape: thirty minutes on writing *The Lure of Water and Wood* from Sweden's sorcery-trial records, in which farmers and milkmaids were charged with loving Näcken, the fiddler in the river, and the Skogsrå, the woman of the woods, and what it took to let those two narrate. Then ten minutes walking the room through The Foremothers Café, the 1918 Lund café from *Sour Milk in Sheep's Wool* that I rebuilt in VR, screen-shared so nobody needs a headset. Questions after.
+Title: The Accused Were Spirits
+Format: Thirty minutes on writing *The Lure of Water and Wood* from Sweden's sorcery-trial records. In those trials, farmers and milkmaids were charged with relations with Näcken, a water spirit, and the Skogsrå, a forest spirit, and in the novel those two are the narrators. Then ten minutes touring The Foremothers Café, the 1918 Lund café from *Sour Milk in Sheep's Wool* that I rebuilt in VR. I'd share my screen, so no one needs a headset, and we'd finish with questions.
 
-Susan, would you moderate? February or March would sit nicely ahead of Women's History Month, and any other date works too.
+Susan, would you be willing to moderate? February or March would come just before Women's History Month, but other dates work too.
 
-Warmly,
+Best,
 Helen
 
 ### Follow-up, two weeks later
-Subject: Re: A chapter program for early 2027
+Subject: Re: Proposed chapter program for early 2027
 
-Susan, Lisa, is the early-2027 calendar open, and is the shape right? Cut the café walk or double it; I'm easy on the format and firm on the trials.
+Susan, Lisa, is there room in the early-2027 calendar, and does the format work? I can shorten or drop the café tour if the trials topic is enough on its own.
 
-Warmly,
+Best,
 Helen
 
 ### Program description for the chapter listing (80 words)
-The Accused Were Spirits. In Sweden between 1600 and 1800, people stood trial for consorting with Näcken, the water spirit, and the Skogsrå, the forest spirit. Novelist Helen Lundström Erwin, author of *The Lure of Water and Wood*, on building a historical fantasy from hostile trial records and letting the accused beings tell it. Followed by a live walk through The Foremothers Café, the 1918 café from her suffrage novel *Sour Milk in Sheep's Wool*, rebuilt in virtual reality. Moderated by Susan Wands.
+The Accused Were Spirits. Between 1600 and 1800, people in Sweden were tried for relations with Näcken, a water spirit, and the Skogsrå, a forest spirit. Novelist Helen Lundström Erwin, author of *The Lure of Water and Wood*, talks about writing a historical fantasy from these trial records, with the two spirits as narrators. Followed by a live tour of The Foremothers Café, the 1918 café from her suffrage novel *Sour Milk in Sheep's Wool*, rebuilt in virtual reality. Moderated by Susan Wands.
 
 ### Thank-you to the chapter after the program
 Subject: Thank you, and the recording
 
-Susan, Lisa, and everyone who stayed for questions: thank you. [Helen: the best question of the night.] When the recording is up I'll share it with the Nordic museums and the folklore podcasts I'm courting, with the chapter's name on it every time.
+Susan, Lisa, and everyone who stayed for questions: thank you. [Helen: the best question of the night.] When the recording is posted, I'll share it with the Nordic museums and folklore podcasts I'm contacting, and credit the chapter each time.
 
-Warmly,
+Best,
 Helen
 
 ## Follow-up rule

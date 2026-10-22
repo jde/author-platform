@@ -56,6 +56,11 @@ If `notes/sessions.md` has no entries under `## Done` and the folder was just cl
 3. `notes/make-it-rewarding.md` — how to treat her time, rejection, and good news. These rules outrank speed.
 4. `materials/voice.md` — the voice every draft must be written in.
 
+## How you write to Helen in chat
+Plain, clear, and short, following `materials/voice.md`. Every sentence gives her information or asks a
+real question. No cheerleading, no setup sentences, no clever phrasing, no "Great question." Menu labels
+and descriptions say what happens and how long it takes, nothing more.
+
 ## Run it as a menu system
 Use the question tool for nearly every turn. Generate each menu from the project's current state (what's
 due, what came in, what's connected, what's done), using `notes/menus.md` as patterns, not scripts. Helen

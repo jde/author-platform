@@ -3,7 +3,7 @@
 ## Podcast one-sheet (paste below a pitch, or attach as PDF)
 **Guest:** Helen Lundström Erwin, historical novelist, creator of The Foremothers Café (VR), New York. Born Helsingborg, Sweden.
 **Books:** The Lure of Water and Wood (2023, historical fantasy, Swedish sorcery trials); Sour Milk in Sheep's Wool (2021, suffrage and reproductive rights, Lund 1900); James' Journey (2014, Underground Railroad).
-**Three topics she can carry for an hour:** see `talk-topics.md` 1, 2, 6.
+**Three topics for a full episode:** see `talk-topics.md` 1, 2, 6.
 **Previous shows:** Folkloring (Apr 2026), Women of HERstory, Wicked Women, Over Coffee, Feelgood Morning Show UK, Diz Runs Radio.
 **Also:** AWE USA 2024 speaker; 2026 Auggie Award finalist; Forbes; 48 Hours in the Metaverse.
 **Logistics:** Eastern time. Remote, good mic. [Helen: mic, availability windows, headshot link.]

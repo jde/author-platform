@@ -24,28 +24,28 @@ A monthly Zoom book club that reads Nordic and Nordic-American authors and expli
 ## Drafts
 
 ### Touch 1 · in the November meeting, spoken, only if asked
-> I'm Helen. Born in Helsingborg, living in New York, and here for the conversation more than anything.
+> My name is Helen. I was born in Helsingborg, I live in New York, and I'm mainly here to listen.
 
 ### Touch 2 · email, the ask
-Subject: Two Swedish novels for the club, with copies in the post
+Subject: Two novels for the Nordic Book Club
 
 Hello Lucas,
 
-I liked that nobody at the November discussion was in a hurry to agree.
+I enjoyed the November discussion, especially how many different readings of the book came up.
 
-I'm mailing two copies for the club's consideration. *Sour Milk in Sheep's Wool* is set in Lund in 1900 among the women who would win the vote in 1919, told through a café owner and an unwed mother who moves town with every pregnancy. *The Lure of Water and Wood* is a historical fantasy narrated by Näcken and the Skogsrå across the sorcery trials. Both grew out of Swedish records; the first also grew into The Foremothers Café, a women's history museum I built in virtual reality.
+I'm mailing two of my novels for the club's consideration. *Sour Milk in Sheep's Wool* is set in Lund around 1900 and follows a café owner involved in the suffrage movement and an unwed mother who moves each time she becomes pregnant. *The Lure of Water and Wood* is a historical fantasy narrated by Näcken and the Skogsrå during Sweden's sorcery trials. Both are based on Swedish historical records, and the first also led me to build The Foremothers Café, a women's history museum in virtual reality.
 
-If either is chosen I'll join the Zoom, any month, and bring three questions. If neither fits, I'll keep coming as a reader, which was the plan anyway.
+If the club chooses either book, I could join the Zoom discussion in any month and bring a few questions for the group. Either way, I plan to keep attending as a reader.
 
-Med vänliga hälsningar,
+Best,
 Helen Lundström Erwin
 helenerwin.com
 
 ### Touch 3 · follow-up, after the copies arrive
-> Hello Lucas, the two copies should have landed by now. There's no clock on this. If a month in 2027 opens for either book, I'm there, and I can give the group a short guided visit to the café in VR afterwards if that would amuse them. It runs in a browser.
+> Hello Lucas, the two copies should have arrived by now. There's no deadline on this. If either book is chosen for a month in 2027, I'll attend, and afterwards I could give the group a short guided visit to the café, which runs in a web browser.
 
 ### Touch 4 · after a yes
-> Thank you, Lucas. [Date] works. I'll send a one-page sheet with a short bio and three discussion questions the week before, and I'll keep my own talking to a minimum so the readers get the floor.
+> Thank you, Lucas. [Date] works for me. The week before, I'll send a one-page sheet with a short bio and three discussion questions, and I'll keep my own remarks short so the readers have time to talk.
 
 ## Stop rule
 Stop after two unanswered asks. Keep attending as a reader.

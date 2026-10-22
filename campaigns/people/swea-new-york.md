@@ -22,23 +22,23 @@ Her own organization. The magazine reaches Swedish women in New York, the café'
 ## Drafts
 
 **Touch 1 (to editor)**
-Subject: 500 words on Foremothers Day for the next issue
+Subject: A 500-word piece on Foremothers Day
 
 Hej [editor],
 
-Foremothers Day is 30 November in The Foremothers Café, the VR museum of Swedish women's history that grew out of my novel. Would a 500-word piece with photos fit the next issue? Swedish or English, your call, with you by [date]. If the issue is full, I'll hold it for spring.
+Foremothers Day is on November 30 in The Foremothers Café, the VR museum of Swedish women's history based on my novel. Would a 500-word piece with photos fit in the next issue? I can write it in Swedish or English and send it by [date]. If the next issue is full, I can hold it for spring.
 
 Varma hälsningar,
 Helen
 
 **Touch 2 (member invitation, for the chapter to send)**
-Subject: Foremothers Day, 30 November, in a 1918 café in Lund
+Subject: Foremothers Day, November 30, in The Foremothers Café
 
 Kära SWEA-vänner,
 
-On Sunday 30 November, The Foremothers Café celebrates Foremothers Day: [one line on the program]. The café is a VR museum of Swedish-American women's history set in Lund in 1918, three years before Swedish women first voted. It's free and runs from a laptop.
+On Sunday, November 30, The Foremothers Café celebrates Foremothers Day: [one line on the program]. The café is a VR museum of Swedish-American women's history, set in Lund in 1918, three years before Swedish women first voted. It's free and works from a laptop.
 
-New to VR? Come to a 20-minute onboarding fika on [date] and I'll show you the door.
+If you're new to VR, come to the 20-minute onboarding session on [date] and I'll help you get in.
 
 Register: [link]
 
@@ -46,18 +46,18 @@ Varma hälsningar,
 Helen Lundström Erwin
 
 **Touch 3 (magazine piece, outline)**
-- The café: one paragraph, Lund 1918, why.
-- Foremothers Day: who came, who spoke, one quote from a member.
+- The café: one paragraph on Lund in 1918 and why it was built.
+- Foremothers Day: who came, who spoke, and one quote from a member.
 - Three photos with captions.
 - How to visit, in three lines.
 [Helen: write from the day itself.]
 
 **Touch 4**
-Subject: A SWEA fika in the café, one Thursday a quarter
+Subject: A quarterly SWEA fika in the café
 
 Hej [board],
 
-A proposal: one Thursday fika a quarter in the café, members only, 45 minutes, with a short talk by a member each time. I'll host and onboard. First one in [month]. Shall we try one and see who comes?
+I'd like to propose a members-only fika in the café one Thursday each quarter. It would last 45 minutes, with a short talk by a member each time. I would host and help people get set up. Could we try the first one in [month]?
 
 Varma hälsningar,
 Helen

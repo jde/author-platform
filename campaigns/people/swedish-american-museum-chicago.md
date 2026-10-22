@@ -22,43 +22,43 @@ A Swedish-American institution that has already said yes once. A second visit, w
 ## Drafts
 
 **Touch 1**
-Subject: The January 2022 book club, and what came after
+Subject: An update since the January 2022 book club
 
 Hello [name or team],
 
-In January 2022 your book club read Sour Milk in Sheep's Wool and let me sit in on the Zoom. The café in that novel has since become a Swedish-American women's history museum in VR; it's free, it works from a laptop, and it holds Foremothers Day every November 30. This year's is [date and one line].
+In January 2022 your book club read Sour Milk in Sheep's Wool, and I joined the Zoom discussion. Since then, the café in the novel has become a Swedish-American women's history museum in VR. It's free, works from a laptop, and holds Foremothers Day every November 30. This year's event is [date and one line].
 
-Any of your members who'd like to see it, I'll walk through personally. Thank you again for 2022.
+If any of your members would like to visit, I can show them around. Thank you again for having me in 2022.
 
 Best,
 Helen Lundström Erwin
 
 **Touch 2**
-Subject: Foremothers Day, and a standing invitation
+Subject: The café, for a possible members' visit
 
 Hello [name],
 
-Foremothers Day went well: [one line]. The café's one-page description is attached in case a members' visit ever fits your calendar; a laptop is the only equipment.
+Foremothers Day went well: [one line]. I've attached a one-page description of the café in case a members' visit would fit your calendar. A laptop is all anyone needs.
 
 Best,
 Helen Lundström Erwin
 
 **Touch 3**
-Subject: October 2027: The Lure of Water and Wood for the book club
+Subject: The Lure of Water and Wood for the October 2027 book club
 
 Hello [name],
 
-Would the club consider The Lure of Water and Wood for October 2027? It's a historical fantasy narrated by Näcken and the Skogsrå across Sweden's sorcery trials of the 1600s and 1700s, which makes it an October book if ever there was one. I'd join the Zoom as I did in 2022. The store can order it through Ingram, ISBN 978-0-9862666-6-9. If October is taken, name a month and I'll be there.
+Would the book club consider The Lure of Water and Wood for October 2027? It's a historical fantasy set during Sweden's sorcery trials of the 1600s and 1700s, told by Näcken and the Skogsrå, two figures from Swedish folklore. I'd join the Zoom discussion as I did in 2022. The museum store can order it through Ingram, ISBN 978-0-9862666-6-9. If October is already taken, another month would work too.
 
 Best,
 Helen Lundström Erwin
 
 **Touch 4**
-Subject: Re: October 2027 book club
+Subject: Re: The Lure of Water and Wood for the book club
 
 Hello [name],
 
-One follow-up on The Lure of Water and Wood for the club. If this year's list is set, I'll check back next autumn; if there's a gap, I'm easy to schedule.
+I'm following up about The Lure of Water and Wood for the book club. If this year's list is already set, I'll check back next autumn.
 
 Best,
 Helen Lundström Erwin

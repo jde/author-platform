@@ -23,42 +23,42 @@ He is both a comparable author (witch-trial novel) and a podcast host. The Mora�
 ## Drafts
 
 ### Touch 1 · Bluesky reply
-> One Swedish thread for this: the German broadsheet of the Mora executions of 1669 travelled to New England, and the Blåkulla sabbath it described is the shape the Salem accusers reached for. I work from the Mora records and can point you at the reference if it's useful.
+> A Swedish connection that may interest you: accounts of the 1669 Mora executions circulated in Europe, and a German illustration of them is thought to have influenced how the Salem trials were discussed. I work from the Mora records and can send you the reference if it's useful.
 
 ### Touch 2 · review, after reading
-> [Helen writes after reading his Putnam novel: one scene, one line on how he handles the accusers as people. Under 50 words.]
+> [Helen writes after reading his Putnam novel: one scene, and one sentence on how he portrays the accusers. Under 50 words.]
 
-### Touch 3 · email, nothing asked
-Subject: The Mora broadsheet, in case you don't have it
+### Touch 3 · email, no request
+Subject: The Mora account, in case it's useful
 
 Hi Greg,
 
-No request in this. You may well have it already, but in case not: [Helen: the broadsheet reference and the source she uses, and any English translation]. The Mora executions of 1669 were printed across Europe, and that printed account reached New England before Salem's own accusations began. I work from those records for fiction and thought the Salem side might want the Swedish half of the story.
+You may already have this, but in case not: [Helen: the reference and source she uses, and any English translation]. Accounts of the 1669 Mora executions were printed across Europe and appear to have reached New England before the Salem accusations began. I use these records for my fiction and thought they might be useful for your work on Salem.
 
-I've been sending my Historical Novel Society chapter to the podcast. They report back.
+I've recommended your podcast to my Historical Novel Society chapter.
 
-Warmly,
+Best,
 Helen
 helenerwin.com
 
 ### Touch 4 · email, the ask
-Subject: Blåkulla before Salem, for the podcast
+Subject: Guest suggestion: the Swedish trials and Salem
 
 Hi Greg,
 
-Your episodes treat the accusers as people with reasons, which is why I'm writing to you and not to a bigger show.
+I'm writing because your episodes treat the accusers as people with motives, and I'd like to suggest myself as a guest.
 
-I was born in Helsingborg and live in New York. *The Lure of Water and Wood* is narrated by Näcken and the Skogsrå, the beings Swedish farmers were tried for loving, across the hunt of 1668 to 1676. Mora in 1669 ran on child witnesses, was printed across Europe, and handed Salem part of its script.
+I was born in Helsingborg and live in New York. My novel *The Lure of Water and Wood* is narrated by Näcken and the Skogsrå, folklore figures that people in Sweden were tried for having relationships with in the 1600s and 1700s. The 1669 Mora trial relied on child witnesses, and accounts of it influenced how Salem talked about witchcraft.
 
-I'd offer an hour on the Swedish hunt and its echoes in Essex County, or on writing a trial novel from the side of the accused, with the records open on the desk.
+I could talk about the Swedish hunt and its connections to Salem, or about writing a trial novel from the point of view of the accused.
 
-A yes gets dates by return; a no gets no second email. Details at helenerwin.com
+If it suits, I'll send some dates. My website is helenerwin.com, if you'd like more background.
 
 Best,
 Helen Lundström Erwin
 
 ### Touch 5 · follow-up, same thread
-> Hi Greg, one last thought. Sweden's hunt ended when a royal commission stopped believing the children, the same turn that ended Salem. Those two endings side by side would make a strong episode. I'm free most evenings, Eastern time, and a later date is as good as an early one.
+> Hi Greg, one more idea: both the Swedish hunt and Salem ended when the authorities stopped believing the children who testified. [Helen: verify before sending.] Comparing the two could make a good episode. I can record most evenings, Eastern time, now or later in the year.
 
 ## Stop rule
 Stop after two unanswered asks.

@@ -23,27 +23,27 @@ Helen lives in New York and sits on the SWEA New York board; this is the Nordic 
 ## Drafts
 
 ### Touch 1 · note to a SWEA New York colleague
-> [Name], do you know who programmes the literary talks at Scandinavia House these days? I'd like to offer them a Foremothers Café visit or a talk on the sorcery trials for spring, and a name beats the general inbox every time.
+> [Name], do you know who schedules the literary talks at Scandinavia House now? I'd like to propose a talk on the Swedish sorcery trials or a visit to The Foremothers Café for the spring, and it would help to write to the right person.
 
 ### Touch 2 · email, the ask
-Subject: For spring: Blåkulla before Salem, or a museum visit without leaving your desk
+Subject: Talk proposal for spring 2027: the Swedish witch trials
 
 Hello [name],
 
-Translating Scandinavia in October was the first time I've heard Damion Searls and Kira Josefsson argue a sentence in public. I'd have stayed longer.
+I attended Translating Scandinavia in October and enjoyed hearing Damion Searls and Kira Josefsson discuss translation choices in detail. [Helen: confirm she attended.]
 
-I was born in Helsingborg, live in New York, and serve as secretary of the SWEA New York board. I'd like to offer Scandinavia House a talk for spring: "Blåkulla before Salem," on the Swedish sorcery trials of 1668 to 1676 and the folklore beings at their centre, drawn from my novel *The Lure of Water and Wood*. If a quieter format suits, I can bring the Nordic Book Club into The Foremothers Café instead, the 1918 Lund café from my suffrage novel that now lives in virtual reality. It runs in a browser and holds seventy.
+I was born in Helsingborg, live in New York, and am secretary of the SWEA New York board. I'd like to propose a spring talk on Sweden's sorcery trials of the 1600s and 1700s, including the 1668 to 1676 witch hunt, based on my novel *The Lure of Water and Wood*. As an alternative, I could host the Nordic Book Club in The Foremothers Café, a virtual reality version of the 1918 café in my novel *Sour Milk in Sheep's Wool*. It runs in a web browser and holds seventy people.
 
-Would March or April suit? Formats on one page: [link]
+Would March or April work? The formats are described on one page here: [link]
 
 Best,
 Helen Lundström Erwin
 
 ### Touch 3 · follow-up, same thread
-> Hello [name], the one-page sheet of formats and a one-minute walkthrough of the café are here: [link]. I'm flexible on dates, and the book club visit works online as easily as in the building. If spring is spoken for, I'd gladly take autumn.
+> Hello [name], here is the one-page description of formats and a one-minute video of the café: [link]. My dates are flexible, and the book club visit can be held online. If spring is already booked, autumn would also work for me.
 
 ### Touch 4 · a new hook for March
-> Hello [name], for Women's History Month: Elise Ottesen-Jensen, who wrote as Ottar from 1912, founded RFSU in 1933 and later presided over the International Planned Parenthood Federation, walks through my novel *Sour Milk in Sheep's Wool* and has a chair in The Foremothers Café. A 45-minute talk on her, with a café visit after, would fit March well. Would that interest you?
+> Hello [name], a suggestion for Women's History Month: a 45-minute talk on Elise Ottesen-Jensen, who founded RFSU in 1933 and later led the International Planned Parenthood Federation. She appears in my novel *Sour Milk in Sheep's Wool*. The talk could be followed by a visit to The Foremothers Café. Would that be of interest?
 
 ## Stop rule
 Stop after two unanswered asks on a hook; a new hook resets.

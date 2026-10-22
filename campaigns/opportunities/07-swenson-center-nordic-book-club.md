@@ -35,17 +35,15 @@ The Swenson Swedish Immigration Research Center's Nordic Book Club meets online 
 ## Drafts
 
 ### Proposal email
-Subject: Two Swedish novels for the Nordic Book Club, author included
+Subject: Two novels for the Nordic Book Club, with an author visit
 
 Hello Lucas,
 
-A club that reads Nordic and Nordic-American writing on a Tuesday evening in Rock Island is exactly the room my books were written for. [Helen: a title from their recent list she has read.]
+I'd like to suggest two of my novels for the Swenson Center's Nordic Book Club, and I can join the Zoom meeting if one is chosen. [Helen: a title from their recent list she has read.]
 
-Two to consider. *Sour Milk in Sheep's Wool*: Lund around 1900, an unwed mother who moves town with every pregnancy, and a café owner whose back room becomes the meeting place for the women who win the vote in 1919. Elise Ottesen-Jensen walks through it. *The Lure of Water and Wood*: the sorcery trials of the 1600s, narrated by Näcken and the Skogsrå.
+*Sour Milk in Sheep's Wool* is set in Lund around 1900. It follows an unwed mother and a café owner whose café becomes a meeting place for suffragists, and Elise Ottesen-Jensen appears in it. *The Lure of Water and Wood* is set during the Swedish sorcery trials of the 1600s and is narrated by Näcken and the Skogsrå, two figures from Swedish folklore.
 
-Copies of both are in the post to the center this week. If either makes the list, I'll join the Zoom and bring a passage from the sources. Both order through Ingram.
-
-If someone else handles programs, a name is all I need.
+I'm mailing copies of both to the center this week. Both can be ordered through Ingram.
 
 Best,
 Helen Lundström Erwin
@@ -54,23 +52,21 @@ helenerwin.com
 ### Cover letter for mailed copies
 Dear Swenson Center,
 
-Two novels for the Nordic Book Club's shelf: *Sour Milk in Sheep's Wool* (2021), set among the Lund suffragists, and *The Lure of Water and Wood* (2023), set during the Swedish sorcery trials. Both are by Helen Lundström Erwin, born in Helsingborg and living in New York, and both order through Ingram.
+Enclosed are two novels for the Nordic Book Club to consider: *Sour Milk in Sheep's Wool* (2021), about the suffrage movement in Lund around 1900, and *The Lure of Water and Wood* (2023), set during the Swedish sorcery trials. Both are by Helen Lundström Erwin, who was born in Helsingborg and lives in New York. Both can be ordered through Ingram.
 
-Helen also built The Foremothers Café, a Swedish-American women's history museum in virtual reality and a 2026 Auggie Award finalist. She will gladly join a club meeting by Zoom.
+Helen also created The Foremothers Café, a Swedish-American women's history museum in virtual reality, which was a 2026 Auggie Award finalist. She is available to join a club meeting by Zoom.
 
 Contact: [Helen's email] · helenerwin.com
 
-With thanks,
+Sincerely,
 Powersimple LLC
 
 ### Follow-up
-Subject: Re: two Swedish novels, author included
+Subject: Re: Two novels for the Nordic Book Club, with an author visit
 
 Hello Lucas,
 
-The copies should have landed by now. If the 2027 list is set, later in the year suits me just as well. The club is also welcome to a guided fika at the café any Thursday; it runs in a browser.
-
-If it appeals, I'll send a few dates.
+The copies should have arrived. If the 2027 list is already set, a later month would work for me. The club is also welcome to visit The Foremothers Café for a Thursday fika; it runs in a web browser.
 
 Best,
 Helen
@@ -80,10 +76,11 @@ Subject: Thank you
 
 Hello Lucas,
 
-Last night was a treat, and please pass my thanks to the members for [Helen: specific]. The café fika is theirs whenever they want it.
+Thank you for including me last night, and please thank the members for [Helen: specific]. The club is welcome at a café fika any Thursday.
 
-Warmly,
+Best,
 Helen
+
 ## Follow-up rule
 One follow-up at 14 days. Stop at 28 days; retry in spring 2027. Mail the books regardless of reply; they stay in the center's library.
 

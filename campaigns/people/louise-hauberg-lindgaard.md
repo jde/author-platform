@@ -14,7 +14,7 @@ A Nordic witch-trial scholar attached to the one Nordic museum devoted to the hu
 ## Touch plan
 | Touch | Target date | Channel | Type | Purpose |
 |---|---|---|---|---|
-| 1 | 2026-10-27 | Bluesky | no-ask | Follow; reply to a research post with a question, not a claim |
+| 1 | 2026-10-27 | Bluesky | no-ask | Follow; reply to a research post with a genuine question |
 | 2 | 2026-11-10 | Bluesky | no-ask | Share one of her posts or papers with a line on what she learned |
 | 3 | 2026-11-24 | Bluesky | no-ask | Thank her for a specific thread; mention HEX! as a place she wants to visit |
 | 4 | 2026-12-10 | DM or email [verify] | soft ask | Invite her to speak at the café on the Danish hunts, honorarium [Helen decides] |
@@ -23,28 +23,28 @@ A Nordic witch-trial scholar attached to the one Nordic museum devoted to the hu
 ## Drafts
 
 ### Touch 1 · Bluesky reply, a question
-> A question rather than a claim: in the Swedish records I work from, the nobility mostly appears as the commission that ended the hunt in 1676. Was the Danish pattern the reverse, with nobles driving the accusations? I'd value a pointer to where to start reading.
+> I have a question about this. In the Swedish records I work from, the nobility appears mostly as members of the commission that ended the hunt in 1676. Was the pattern in Denmark different, with nobles involved in bringing accusations? I'd be grateful for a suggestion on where to start reading.
 
 ### Touch 2 · share
-> Historians doing the slow work: @lhlindgaard.bsky.social on noble involvement in the Danish witch trials. [Helen: one line on what she learned.] The Swedish side has nothing this careful on class yet, and it shows.
+> @lhlindgaard.bsky.social is researching the role of the nobility in the Danish witch trials. [Helen: one line on what she learned.] I haven't found comparable work on social class in the Swedish trials.
 
 ### Touch 3 · thank-you
-> Thank you for the thread on [subject]. It changed how I'm reading a Svea court case from the 1670s. HEX! is on my list for the next trip home to Helsingborg; it's close enough that I have no excuse left.
+> Thank you for the thread on [subject]. It changed how I read a Svea court case from the 1670s. I'd like to visit HEX! on a future trip to Scandinavia. [Helen: adjust once you've checked where HEX! is.]
 
 ### Touch 4 · DM or email, a soft ask
 Hi Louise,
 
-I've learned more from your posts this autumn than from two of the books on my shelf. I was born in Helsingborg and write fiction in New York from the Swedish hunt of 1668 to 1676, and I host a Thursday fika in The Foremothers Café, a women's history museum I built in virtual reality. It runs in a browser.
+I've learned a great deal from your posts this autumn. I was born in Helsingborg and write historical fiction in New York set during Sweden's sorcery trials of the 1600s and 1700s. I also host a weekly fika in The Foremothers Café, a women's history museum I built in virtual reality that runs in a web browser.
 
-An invitation: a 45-minute talk in the café on the Danish trials and the nobles' part in them, with questions after, on an evening that suits Danish time. [Helen: honorarium, or "I can offer a modest honorarium of X."] The audience is readers and writers of Nordic history. I do the setting up and the onboarding, and the recording is yours.
+I'd like to invite you to give a 45-minute talk in the café on the Danish witch trials and the role of the nobility, followed by questions, at a time that suits you in Denmark. [Helen: honorarium, or "I can offer a modest honorarium of X."] The audience would be readers and writers interested in Nordic history. I'd handle the setup and help attendees get in, and you would keep the recording.
 
-If this isn't the right season, tell me which one is. The café is at theforemotherscafe.com
+If this season doesn't work, let me know which would. The café is at theforemotherscafe.com.
 
-Warmly,
+Best,
 Helen Lundström Erwin
 
 ### Touch 5 · follow-up, with a date
-> Hi Louise, a date to make it concrete: [date], 19:00 CET, for the Danish trials talk. If it doesn't suit, say so and I'll leave it there, and I'll go on reading either way.
+> Hi Louise, would [date] at 19:00 CET work for the talk on the Danish trials? If not, let me know and I'll leave it there. I'll keep reading your work either way.
 
 ## Stop rule
 Stop after two unanswered asks. The no-ask engagement continues.

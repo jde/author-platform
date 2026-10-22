@@ -23,29 +23,29 @@ Their readers are exactly the folklore-literate fantasy readers for *The Lure of
 ## Drafts
 
 ### Touch 1 · comment on the Rabuzzi essay
-> Thank you for bringing this over from *Folkeminner*. One Swedish addition: the Skogsrå and Näcken turn up in 17th-century court records as named parties, not only in tales, and the accused spoke of them as neighbours. That move from tale to testimony is where I write from.
+> Thank you for republishing this from *Folkeminner*. One Swedish addition: Näcken and the Skogsrå appear in 17th-century court records as well as in folktales, and the accused described them as figures they knew personally. That testimony is what my fiction is based on.
 
 ### Touch 2 · share
-> If you write with folklore, Carterhaugh School is the kindest classroom I've found online. Sara and Brittany's edition of the Rabuzzi essay on Scandinavian folklore in English fantasy is a reading list and an argument at the same time. [link]
+> For anyone writing fiction with folklore: Carterhaugh School has republished Daniel Rabuzzi's essay on Scandinavian folklore in English-language fantasy, and it also works as a good reading list. [link]
 
 ### Touch 3 · contact form, the ask
-Subject: A guest essay from the courtroom: the Skogsrå under oath
+Subject: Guest essay proposal: the Skogsrå in Swedish court records
 
 Hi Sara and Brittany,
 
-Your Rabuzzi essay is the best map of Scandinavian folklore in English fantasy I know, from Martineau's fiord to Emily Wilde.
+I read the Rabuzzi essay you republished, which covers Scandinavian folklore in English-language fantasy from Harriet Martineau to *Emily Wilde's Encyclopaedia of Faeries*.
 
-I'd like to offer an essay from a corner the map doesn't reach: the Swedish sorcery trials of the 1600s and 1700s, where farmers and milkmaids were tried for keeping company with Näcken and the Skogsrå. The records describe the beings as the accused experienced them, stranger and sadder than the folktales. My novel *The Lure of Water and Wood* is narrated by the two of them.
+I'd like to propose a guest essay on a related subject it doesn't cover: the Swedish sorcery trials of the 1600s and 1700s, in which people were tried for relationships with Näcken and the Skogsrå. The records describe these figures as the accused experienced them. My novel *The Lure of Water and Wood* is narrated by the two of them.
 
-Working title: "The Skogsrå in Court: what the transcripts say the forest woman was." About 1,500 words, sources listed, by any date you name.
+The working title is "The Skogsrå in Court." It would be about 1,500 words with sources, delivered by whatever date suits you.
 
-If the calendar's full, tell me when it opens. The book is at helenerwin.com
+If your schedule is full, please let me know when it opens. More about the book is at helenerwin.com.
 
 Best,
 Helen Lundström Erwin
 
 ### Touch 4 · follow-up with an outline
-> Hi Sara and Brittany, an outline in case it helps the decision. One: a soldier's own account of his years with her, from the Svea court records. Two: what the bark back meant to the people who described it. Three: why the courts read a love story as a contract. Four: how I let her narrate. 1,500 words, sources listed. If it's a no, I'll keep sending students your way.
+> Hi Sara and Brittany, I've put together an outline in case it helps you decide. First, a soldier's account of his relationship with the Skogsrå, from the Svea court records. Second, what the accused said her appearance meant to them. Third, why the courts treated these relationships as agreements. Fourth, how I wrote her as a narrator. About 1,500 words with sources. I'll keep recommending the school to other writers either way.
 
 ## Stop rule
 Stop after two unanswered asks.

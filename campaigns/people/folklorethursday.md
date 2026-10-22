@@ -24,33 +24,31 @@ The largest weekly folklore audience online. An article on the magazine and a re
 ## Drafts
 
 **Touch 1 (Bluesky, under 50 words)**
-#FolkloreThursday Mora, Sweden, 1669: children told the court that neighbors flew them to Blåkulla to feast with the Devil, and the court believed them. Today Swedish children dress as witches at Easter and fly to the same mountain for sweets. One word, three centuries apart.
+#FolkloreThursday In Mora, Sweden, in 1669, children told a court their neighbors had flown them to Blåkulla to meet the Devil, and the court believed them. Today Swedish children dress as witches at Easter and say they're flying to Blåkulla for sweets.
 
 **Touch 2 (weekly pattern, examples under 50 words)**
-- "Näcken sits in the river with a fiddle. Learn his tune and your feet won't stop; the Värmland cure was to cut the strings." #FolkloreThursday
-- "The Skogsrå is a beauty from the front and a hollow trunk from behind. Hunters who were courteous got game; the rude ones got lost." #FolkloreThursday
-- Once a month: "If you'd like the trials told from the spirits' side, that's the novel I wrote. [link]"
+- "In Swedish folklore Näcken plays the fiddle in rivers. In Värmland it was said that anyone who learned his tune couldn't stop dancing until someone cut the fiddle strings." #FolkloreThursday
+- "The Skogsrå looks like a beautiful woman from the front and a hollow tree trunk from behind. Hunters who were polite to her were said to find game, and rude ones got lost." #FolkloreThursday
+- Once a month: "My novel tells the Swedish trials from the spirits' point of view: [link]"
 
 **Touch 3**
-Subject: What February grew into
+Subject: Thank you for the February lecture
 
 Hello [name],
 
-Thank you again for hosting the Lure of Water and Wood lecture and the folklore exhibition in the Hub in February. Since then: [one or two outcomes: readers who found the café, the Folkloring episode in April]. The Hub closing in June was a loss; it was a generous room.
-
-Nothing to ask. I'll keep turning up on Thursdays.
+Thank you again for hosting my lecture on The Lure of Water and Wood and the folklore exhibition in the Cultural Futures Hub in February. Since then, [one or two outcomes, such as readers who found the café or the Folkloring episode in April]. I was sorry to see the Hub close in June.
 
 Best,
 Helen Lundström Erwin
 
 **Touch 4**
-Subject: Pitch: Easter witches, and the trials behind them
+Subject: Article pitch for Easter: the Swedish Easter witches
 
 Hello [name],
 
-For the week before Easter: 800 words on Sweden's påskkärringar, the children who go door to door as witches, and the 1668 to 1676 trials they descend from, when courts took children's Blåkulla testimony as fact. Näcken and the Skogsrå, the beings people were accused of loving, frame the piece. I can supply [two images with rights].
+I'd like to pitch an 800-word article for the week before Easter. It would cover the påskkärringar, the Swedish children who dress as witches at Easter, and the 1668 to 1676 trials the custom comes from, when courts accepted children's testimony about Blåkulla. I can provide [two images with rights].
 
-If it fits the magazine, I'll have a draft with you by [date]. If this belongs on another desk, I'd be grateful for a pointer.
+If you'd like it, I can send a draft by [date]. If someone else handles articles, could you tell me who?
 
 Best,
 Helen Lundström Erwin

@@ -22,41 +22,41 @@ A women's history host who already covered Ottesen-Jensen with Helen. January 2 
 ## Drafts
 
 **Touch 1**
-Subject: Still sending people to our Ottar hour
+Subject: Our episode on Elise Ottesen-Jensen
 
 Grace,
 
-When someone asks me who Elise Ottesen-Jensen was, I send them to your episode before I send them to my novel. Thank you for that hour.
+When people ask me who Elise Ottesen-Jensen was, I send them to your episode first. Thank you for it.
 
-Since we spoke, Hanna's café from Sour Milk in Sheep's Wool has become a women's history museum in VR with its own discussion series, and Elise has a wall. The museum runs in a browser; if you're ever curious, I'll walk you through in fifteen minutes.
+Since we spoke, Hanna's café from Sour Milk in Sheep's Wool has become a women's history museum in VR with a discussion series, and Elise has a wall there. It runs in a web browser. If you'd like to see it, I can show you around in fifteen minutes.
 
-Warmly,
+Best,
 Helen
 
 **Touch 2**
-Subject: Foremothers Day, 30 November
+Subject: Foremothers Day, November 30
 
 Grace,
 
-The café holds Foremothers Day on the 30th. [One line on the program.] You're very welcome as a guest; it needs no preparation and nothing beyond a laptop. I'll send the two-minute way in if you say yes.
+The café holds Foremothers Day on November 30. [One line on the program.] You'd be welcome as a guest. You only need a laptop, and I'll send instructions if you'd like to come.
 
 theforemotherscafe.com
 
-Warmly,
+Best,
 Helen
 
 **Touch 3**
-Subject: 2 January
+Subject: Elise's birthday on January 2
 
 Grace,
 
-Elise was born on 2 January. I'm planning a post that morning and want it to point to your episode rather than to me. Would you like to share it together that day, or record five minutes on what's shifted around her legacy since we talked? A yes gets you three dates by return.
+Elise was born on January 2. I'm planning a post that day and would like it to point to your episode. Would you like to share it with me that morning, or record five minutes on how her legacy has been discussed since we talked? If you're interested, I'll send some dates.
 
-Warmly,
+Best,
 Helen
 
 **Touch 4 (Bluesky, under 50 words)**
-Elise Ottesen-Jensen, born today in [year]. Pastor's daughter, founded RFSU in 1933, co-founded the International Planned Parenthood Federation and later ran it. The best hour I've spent on her was with @[Grace handle] on Wicked Women. [link]
+Elise Ottesen-Jensen was born on this day in [year]. She founded RFSU in 1933 and co-founded the International Planned Parenthood Federation. My favorite hour on her life is @[Grace handle]'s episode of Wicked Women: [link]
 
 ## Stop rule
 Stop after two unanswered touches. Never more than three contacts without a reply.

@@ -23,51 +23,49 @@ Closest collaborator on the café. Any café milestone (Immersive X, Foremothers
 ## Drafts
 
 **Touch 1**
-Subject: The Auggies had your name on them
+Subject: Immersive X, November 10 to 12
 
 Christi,
 
-Somewhere in my files there's a colored-pencil café with a crooked counter. You turned it into a room that AWE put on a finalist list this June. That part was yours, and I say so every time someone asks how the café got built.
+The café was an Auggie finalist for Best Indie Creator in June, and I've been crediting you as the builder whenever anyone asks how it was made.
 
-Immersive X runs November 10 to 12 and I'll be showing the room again. If there's anything about the build you'd want said to a hall of world builders, give me the sentence and it goes in my notes.
+I'm showing it again at Immersive X on November 10 to 12. If there's something about the build you'd like me to mention to the audience there, send me a sentence and I'll include it.
 
-Warmly,
+Best,
 Helen
 
 **Touch 2**
-Subject: Overheard in the café, day three
+Subject: A visitor's comment from Immersive X
 
 Christi,
 
-Writing from inside the festival. [Verbatim: what a visitor said when they walked in.] I wrote it down for you while they were still talking. The sofas by the window did their work again; people sit before they say hello.
+On the third day of the festival a visitor said this when they walked into the café: [verbatim comment]. I wanted you to have it, since it's about the room you built.
 
-That's the whole message.
-
-Warmly,
+Best,
 Helen
 
 **Touch 3**
-Subject: November 30, and ten minutes I'd like to hand you
+Subject: Foremothers Day on November 30
 
 Christi,
 
-Foremothers Day falls on Sunday the 30th this year. [Who's speaking, or which exhibition opens.] In 1918 the real café would have been full of Lund women arguing about the coming vote; ours will be full of people who flew in from four time zones.
+Foremothers Day is on Sunday, November 30. [Who's speaking, or which exhibition opens.]
 
-I'd like to open by naming you as the builder, and if you're free, give you ten minutes to tell how the room came to be. If the date's taken, one paragraph from you is enough and I'll read it aloud.
+I'd like to open the event by naming you as the café's builder. If you're free, would you take ten minutes to talk about how it was made? If you can't make it, a paragraph from you would work, and I'll read it aloud.
 
-Warmly,
+Best,
 Helen
 
 **Touch 4**
-Subject: The room, full
+Subject: How Foremothers Day went
 
 Christi,
 
-[Number] people on Sunday. [One moment.] Photo attached: that's the counter you built, with a queue at it.
+[Number] people came on Sunday. [One moment from the day.] I've attached a photo of the counter you built, with people lined up at it.
 
-Thank you for giving the book a door.
+Thank you again for building the café.
 
-Warmly,
+Best,
 Helen
 
 ## Stop rule

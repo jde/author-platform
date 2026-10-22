@@ -22,31 +22,31 @@ The one named folklore figure who has publicly reviewed the newest novel. Her co
 ## Drafts
 
 **Touch 1 (Bluesky, under 50 words)**
-@[Dee handle] I only just found your review of The Lure of Water and Wood from last October. "The beings who inhabit it" is the exact book I was trying to write. Thank you, a year late and entirely sincere.
+@[Dee handle] I only recently found your review of The Lure of Water and Wood from last October. You described exactly what I was trying to do with the book. Thank you.
 
 **Touch 2 (Bluesky repost, under 50 words)**
-[Her post, reposted with:] This is why I wrote the Skogsrå as a neighbor and not a warning. [One specific sentence about her post.]
+[Her post, reposted with one specific sentence about what she wrote and how it relates to the Skogsrå.]
 
 **Touch 3**
-Subject: May I borrow your sentence?
+Subject: May I quote your review?
 
 Dee,
 
-"A truly beautiful book, exploring Sweden's folklore and the beings who inhabit it" is the best twelve words the novel has, and I didn't write them. May I put them on the website and in the press kit with your name? If you'd rather they stay on Goodreads, tell me and they will.
+Your review called The Lure of Water and Wood "a truly beautiful book, exploring Sweden's folklore and the beings who inhabit it." It describes the book better than I have. May I quote it on my website and in my press kit, with your name? If you'd prefer it stays on Goodreads, that's fine.
 
-Warmly,
+Best,
 Helen
 
 **Touch 4**
-Subject: How a witch trial became a children's holiday
+Subject: An article idea for FolkloreThursday
 
 Dee,
 
-Every Easter, Swedish children paint their cheeks, grab a coffee pot and a broom, and go door to door as witches bound for Blåkulla. The custom descends from the trials of 1668 to 1676, when children's testimony about that same mountain sent their neighbors to the stake. I'd like to write 800 words for FolkloreThursday on that line from courtroom to costume, with Näcken and the Skogsrå as the beings who watched it happen.
+At Easter, Swedish children dress as witches and go door to door, saying they're flying to Blåkulla. The custom comes from the trials of 1668 to 1676, when children's testimony about Blåkulla led to their neighbors' executions. I'd like to write an 800-word piece for FolkloreThursday about how the trials turned into the Easter custom.
 
-Late March would land it the week before Easter. If the slot's spoken for, point me at the next one.
+Publishing it in late March would put it the week before Easter. If that slot is taken, a later date would also work.
 
-Warmly,
+Best,
 Helen
 
 ## Stop rule

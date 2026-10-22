@@ -4,7 +4,7 @@
 Writer on science, history and witch trials. Latest book *The Witch of Eye*. Bluesky: katnuernberger.bsky.social.
 
 ## Why they matter
-A comparable author one step ahead, with a literary audience that reads witch-trial history seriously. Her readers are Helen's readers. This is a peer relationship, not a pitch.
+A comparable author one step ahead, with a literary audience that reads witch-trial history seriously. Her readers are Helen's readers. Treat her as a peer; the goal is a working relationship between writers.
 
 ## What we know (facts with sources)
 - Bluesky bio: writer on science, history and witch trials; latest book *The Witch of Eye* (Bluesky actor search).
@@ -22,31 +22,31 @@ A comparable author one step ahead, with a literary audience that reads witch-tr
 ## Drafts
 
 ### Touch 1 · Bluesky reply
-> [Helen: name the essay] in *The Witch of Eye* stayed with me for days. I write from the Swedish trials, where people were charged with loving the forest spirit rather than the devil, and your habit of listening to what the accused actually said is the standard I hold myself to.
+> [Helen: name the essay] in *The Witch of Eye* has stayed with me. I write about the Swedish trials, where some people were charged with relationships with a forest spirit, and your attention to what the accused actually said is something I try to match.
 
 ### Touch 2 · review, Goodreads and Bluesky
-> *The Witch of Eye* reads trial records as the voices of the accused, which almost nobody manages. [Helen: one specific essay and what it does.] Put it next to Ankarloo on the Swedish hunts and you can see the whole shape of the thing from both coasts.
+> *The Witch of Eye* reads trial records as the words of the accused, which few books do well. [Helen: one specific essay and what it does.] Readers interested in the Swedish trials could read it alongside Bengt Ankarloo's *Satans raseri*.
 
 ### Touch 3 · #BookSky post
-> If *The Mercies* got under your skin, read Kathryn Nuernberger's *The Witch of Eye* next. It's nonfiction, and it gets closer to the accused than most novels manage. @katnuernberger.bsky.social #BookSky #HistoricalFiction
+> If you liked *The Mercies*, try Kathryn Nuernberger's *The Witch of Eye*. It's nonfiction, and it stays very close to what the accused said. @katnuernberger.bsky.social #BookSky #HistoricalFiction
 
 ### Touch 4 · DM or email, a soft ask
-Subject: From one reader of trial records to another
+Subject: The Witch of Eye, and a possible conversation
 
 Hi Kathryn,
 
-I've spent the autumn reading and recommending *The Witch of Eye*. I write historical fiction from the Swedish sorcery trials; my latest, *The Lure of Water and Wood*, is narrated by the water and forest spirits the accused were charged with loving, and it leans on the same kind of close reading you do.
+I've been reading and recommending *The Witch of Eye* this autumn. I write historical fiction about the Swedish sorcery trials. My latest novel, *The Lure of Water and Wood*, is narrated by the water and forest spirits some of the accused were charged with, and it depends on close reading of the records, as your essays do.
 
-Two things, either or neither. I'd like to send you a copy, and I'd read anything you want a Swedish-records eye on. And I host a Thursday fika in a 1918 café I built in virtual reality; it runs in a browser, nobody wears a headset. A public conversation between us on reading trial records would draw a room. I'd do all the setting up.
+I'd like to send you a copy. I'd also like to invite you to a public conversation about reading trial records, held in The Foremothers Café, a 1918 café I built in virtual reality where I host a weekly fika. It runs in a web browser, and I would handle all the arrangements.
 
-If the answer is later, later is fine.
+Later in the year would also work, if that suits you better.
 
-Warmly,
+Best,
 Helen Lundström Erwin
 helenerwin.com
 
 ### Touch 5 · follow-up, only once a date exists
-> Hi Kathryn, we've set [event] for [date] in the café. If thirty minutes on reading trial records appeals, the door's open. If not, I'll keep recommending the book, which I'd be doing anyway.
+> Hi Kathryn, we've scheduled [event] for [date] in the café. If you'd like to join for thirty minutes on reading trial records, you'd be welcome. I'll keep recommending the book either way.
 
 ## Stop rule
 Stop after two unanswered asks. This is a peer relationship; the no-ask touches continue indefinitely.

@@ -4,7 +4,7 @@
 A guest episode on the Skogsrå and Näcken as dark folklore, pitched at Icy's Gothic and dark-fantasy audience, with *The Lure of Water and Wood* as the book.
 
 ## Why her
-Icy Sedgwick's podcast is listed in a directory as accepting guests and ran a June 17, 2026 interview with archaeologist Wayne Perkins on ritual building protection. Her stated interests are inclusive research-backed folklore, the occult, weird tales, Gothic fiction, dark fantasy, horror, and history. Her 2023 book *Rebel Folklore* (DK) gathers fifty of the darkest folktale characters worldwide. A seductive forest spirit with a hollow back and a fiddler who drowns people are exactly her material.
+Icy Sedgwick's podcast is listed in a directory as accepting guests and ran a June 17, 2026 interview with archaeologist Wayne Perkins on ritual building protection. Her stated interests are inclusive research-backed folklore, the occult, weird tales, Gothic fiction, dark fantasy, horror, and history. Her 2023 book *Rebel Folklore* (DK) gathers fifty of the darkest folktale characters worldwide. The Skogsrå and Näcken fit those interests.
 
 ## Contact and mechanism
 - Email: icy@icysedgwick.com
@@ -32,44 +32,43 @@ Icy Sedgwick's podcast is listed in a directory as accepting guests and ran a Ju
 ## Drafts
 
 ### Pitch email
-Subject: Wayne Perkins, guarded buildings, and the woman with the hollow back
+Subject: Guest suggestion: the Skogsrå and the Swedish sorcery trials
 
 Hi Icy,
 
-Your episode with Wayne Perkins on ritual protection sent me straight back to the Swedish farmsteads. [Helen: the detail from the episode, and the Swedish farm custom she knows, if any.] What those farms feared had a name: the Skogsrå, the forest woman, a beautiful face in front and bark behind, who brought men home from the woods changed.
+I listened to your episode with Wayne Perkins on ritual building protection, and it made me think your listeners might be interested in a Swedish forest spirit, the Skogsrå. [Helen: the detail from the episode, and any related Swedish farm custom she knows.]
 
-In the 1600s the courts took her seriously. Men stood trial for having her as a lover. I wrote *The Lure of Water and Wood* so she and Näcken, the river fiddler, could tell those trials in their own voices. Dee Chainey called it a beautiful book about the beings who inhabit Sweden's folklore, which is the review I'd hoped for.
+The Skogsrå is described as a beautiful woman with a hollow or bark-covered back. In the 1600s, Swedish courts tried men for having relations with her. My novel *The Lure of Water and Wood* is narrated by the Skogsrå and Näcken, a water spirit, during those trials. Dee Chainey reviewed it as "a truly beautiful book, exploring Sweden's folklore and the beings who inhabit it."
 
-For Fabulous Folklore: the trials from the creatures' side, and why I wouldn't write her as a monster. If it's not your season, I'll keep listening either way.
+I'd like to come on Fabulous Folklore to talk about the Skogsrå, the trials, and why I chose not to write her as a monster. I'm free to record most evenings, US Eastern time.
 
 Best,
 Helen Lundström Erwin
 helenerwin.com
 
 ### Follow-up (two weeks later)
-Subject: Re: the woman with the hollow back
+Subject: Re: Guest suggestion: the Skogsrå and the Swedish sorcery trials
 
 Hi Icy,
 
-A small addition for the decision pile: the Mora confessions of 1669, children describing the flight to Blåkulla, and I'll read from them on air. They sit very close to your Gothic shelf.
-
-No answer needed unless it's a yes.
+Another possible topic, in case it suits better, is the 1669 Mora trial, where children testified that they had been taken to Blåkulla. I can read from the testimony on air if that's useful.
 
 Best,
 Helen
 
 ### Thank-you after recording
-Subject: Thank you, and a griffin question
+Subject: Thank you
 
 Hi Icy,
 
-That was the most fun I've had explaining a hollow back. [Helen: one specific.] I'll share the episode the day it lands. If *Rebel Folklore* ever gets a second volume, the Skogsrå would like to be considered, though she knows she can't compete with a griffin.
+Thank you for having me on the show. [Helen: one specific moment from the conversation.] I'll share the episode when it's released. If you ever write a follow-up to *Rebel Folklore*, I can suggest Swedish material for it.
 
-Warmly,
+Best,
 Helen
 
 ### Bluesky reply when she posts about the episode (under 50 words)
-Thank you for having me. Anyone who wants to meet the Skogsrå can find her at The Foremothers Café in VR on Thursdays. She behaves better than the court records suggest. Mostly.
+Thank you for having me on Fabulous Folklore. For anyone who wants to hear more about Swedish folklore, I host a weekly fika at The Foremothers Café in VR on Thursdays.
+
 ## Follow-up rule
 One follow-up at 14 days. Stop at 28 days. Keep reading her newsletter; reply to one issue a quarter with something real.
 

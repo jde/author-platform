@@ -22,41 +22,41 @@ A women's history show with a four-year-old episode that still ranks in search f
 ## Drafts
 
 **Touch 1**
-Subject: What our 2022 conversation turned into
+Subject: What happened after our 2022 interview
 
 Heather,
 
-In January 2022 you gave me forty minutes to talk about a milkmaid and a café owner in Lund. Four years on, Hanna's café is a museum of Swedish women's history that people walk into from their laptops, with a Thursday fika and a discussion series, and it was an Auggie finalist this summer.
+In January 2022 you interviewed me for forty minutes about Sour Milk in Sheep's Wool. Since then, Hanna's café from the novel has become a Swedish women's history museum in VR, with a Thursday fika and a discussion series. It was an Auggie finalist this summer.
 
-I wanted the person who asked the first questions to know where the answers ended up.
+You asked the first questions about it, so I wanted you to know.
 
-Warmly,
+Best,
 Helen
 
 **Touch 2**
-Subject: November 30 in Hanna's café
+Subject: Foremothers Day in the café
 
 Heather,
 
-Foremothers Day is Sunday the 30th. [One line on who is speaking.] If you'd like to see the room, come as a guest; it runs in a browser and I'll send a short note on finding the door.
+Foremothers Day is on Sunday, November 30. [One line on who is speaking.] If you'd like to see the café, you're welcome to come as a guest. It runs in a web browser, and I'll send instructions.
 
 theforemotherscafe.com
 
-Warmly,
+Best,
 Helen
 
 **Touch 3**
-Subject: Ten minutes of "since then"
+Subject: A short follow-up episode, or a re-share
 
 Heather,
 
-Two offers, take either. A ten-minute follow-up for your feed on what the 2022 listeners did with the story, including the ones who found the café. Or, if the format doesn't bend that way, your blessing to re-share the original during Women's History Month. No answer needed unless it's a yes to one of them.
+I have two ideas, and either would be good. One is a ten-minute follow-up for your feed about what happened with the book and the café since 2022. The other, if that format doesn't suit the show, is re-sharing the original episode during Women's History Month. Let me know if either appeals.
 
-Warmly,
+Best,
 Helen
 
 **Touch 4 (Bluesky, under 50 words)**
-Women's History Month. Four years ago @[show handle] gave me forty minutes on the Lund café where the suffragists met after closing. You can walk into that café now. The conversation that started it: [link]
+For Women's History Month: in 2022 @[show handle] interviewed me about the café in Lund where suffragists met after closing. That café is now a museum you can visit in VR. The episode: [link]
 
 ## Stop rule
 Stop after two unanswered touches. Never more than three contacts without a reply.

@@ -28,53 +28,48 @@ Her audience likes the dark side of folklore, which is where Näcken and the Sko
 
 ### Touch 1 · social reply
 [Adjust to the post she's replying to.]
-> Swedish farms had their own kit for this: a knife driven into the lintel above the byre against the Skogsrå, and a standing rule never to whistle near water after dark, because Näcken whistles back. Your Perkins episode made me reread a barn in a 1670s trial record.
+> Your episode with Wayne Perkins on ritual building protection made me look again at a barn described in a 1670s Swedish trial record. [Helen: one sentence on a Swedish protective practice you can source.] Thank you for the episode.
 
 ### Touch 2 · review of *Rebel Folklore*, Goodreads or Bluesky
-> *Rebel Folklore* takes the villains seriously as characters, which is the only honest way to read them. [Helen: name the Nordic entries and one line on each.] Read it beside the Swedish trial records and the two books start talking to each other.
+> *Rebel Folklore* collects fifty of folklore's darker and more complicated characters and gives each one their own reasons. [Helen: name the Nordic entries and one line on each.] It's a useful book for anyone writing fiction from folklore, which is what I do.
 
-### Touch 3 · email, nothing asked
-Subject: The farmer who carved his own evidence
+### Touch 3 · email, no request
+Subject: Your episode with Wayne Perkins
 
 Hi Icy,
 
-No request here, only a thank-you with a story attached.
+Your conversation with Wayne Perkins on ritual marks helped me understand a case I'd been stuck on. A farmer accused of a relationship with the Skogsrå had cut marks into his own barn door. The court treated the marks as evidence of his bargain with her, but he had most likely made them to keep her out. [Helen: confirm the case and its source before sending.]
 
-After your conversation with Wayne Perkins on ritual marks I went back to a case I'd never understood. A farmer accused of consorting with the Skogsrå had cut marks into his own barn door. The court read them as the signature on his bargain with her. He had almost certainly cut them to keep her out. [Helen: confirm the case and its source before sending.] Your episode is why that finally made sense.
-
-I write historical fiction from those records, and I've been pointing other writers at Fabulous Folklore ever since.
+I write historical fiction from these records, and I've been recommending Fabulous Folklore to other writers.
 
 Best,
 Helen Lundström Erwin
 helenerwin.com
 
 ### Touch 4 · email, the ask
-Subject: Two rebels for your list: a fiddler in the river, a woman with bark for a back
+Subject: Guest suggestion: Näcken and the Skogsrå in the Swedish trials
 
 Hi Icy,
 
-*Rebel Folklore* gives dark figures their reasons. I have two more who'd fit, and they came with court dates.
+I'd like to suggest myself as a guest for Fabulous Folklore. *Rebel Folklore* covers some of folklore's most complicated characters, and I think two Swedish figures would interest your listeners.
 
-In Sweden between 1668 and 1676, people were tried for loving Näcken, who plays the fiddle under the bridge and drowns the dancers, and the Skogsrå, who is lovely from the front and hollow as a rotten pine from behind. The accused described them under oath, and some described tenderness. My novel *The Lure of Water and Wood* lets the two beings narrate those years.
+In the 1600s and 1700s, Swedish courts tried people for relationships with Näcken, a water spirit who plays the fiddle and drowns people, and the Skogsrå, a forest spirit who looks like a woman from the front and is hollow behind. Some of the accused described these relationships in detail. My novel *The Lure of Water and Wood* is narrated by those two figures.
 
-The hour I'd carry: how to write the Skogsrå without turning her into a warning, and what the transcripts say her lovers believed.
+A possible topic is how the trial records describe the Skogsrå, and what the people accused with her said they believed.
 
-If that sounds right, dates follow. Whatever the answer, I'll be listening.
+If this fits, I can send dates. My website is helenerwin.com.
 
 Best,
 Helen Lundström Erwin
-helenerwin.com
 
 ### Touch 5 · follow-up, same thread
-Subject: Re: Two rebels for your list
+Subject: Re: Guest suggestion: Näcken and the Skogsrå in the Swedish trials
 
 Hi Icy,
 
-A last nudge with a seasonal hook. Swedish Easter is the week the witches fly: children dress as påskkärringar, broom and coffee pot and all, on their way to Blåkulla, and nobody tells them it started with a trial in 1669. If that suits a spring episode, I'm free most evenings on Eastern time.
+A seasonal idea for a spring episode: at Easter, Swedish children dress as påskkärringar, Easter witches, and go door to door. The tradition draws on the belief that witches flew to Blåkulla at Easter, which was central to the Mora trial of 1669. I'm available most evenings, Eastern time, if that would be useful.
 
-Tell me yes, no, or later. Later is fine.
-
-Warmly,
+Best,
 Helen
 
 ## Stop rule

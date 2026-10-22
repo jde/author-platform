@@ -27,61 +27,61 @@ The Folklore Podcast is the folklore show with the widest reach that has already
 ## Drafts
 
 ### Touch 1 · Bluesky reply
-[Helen picks the current episode and swaps the parallel to fit it.]
-> Listened twice. What you said about [detail] is exactly what the Älvdalen court missed in 1668: thirty tried, eighteen condemned, all on the word of a shepherd girl who said a neighbour had flown her to Blåkulla. Grateful for a show that keeps the stories whole.
+[Helen picks the current episode and adjusts the comparison to fit it.]
+> Your point about [detail] reminded me of the Älvdalen trial in 1668. Thirty people were tried and eighteen were sentenced to death, largely on the testimony of a shepherd girl who said a neighbor had taken her to Blåkulla. Thank you for the episode.
 
 ### Touch 2 · Bluesky post, sharing an episode
-> Writers who put folklore in novels: the @folklorepod.bsky.social conversation with [Danielle Giles / Bar Fridman-Tell] is the one to hear. It took me straight back to my own problem with the Skogsrå, which was letting her be a neighbour before she was a legend. [episode link]
+> For writers who use folklore in their novels, The Folklore Podcast's episode with [Danielle Giles / Bar Fridman-Tell] is worth an hour. It helped me with a problem in my own book, which was how to write the Skogsrå as part of village life. @folklorepod.bsky.social [episode link]
 
-### Touch 3 · email, nothing asked
-Subject: A thank-you from the Swedish side of the hedge
+### Touch 3 · email, no request
+Subject: Thank you for [episode title]
 
 Hi Mark,
 
-Nothing to ask in this one. I wanted to say that [episode title] sent me back to a trial record I'd been misreading for a year. [Helen: the detail, one sentence.] It turns out the Swedish courts of the 1670s were doing what your guest described: treating the being in the story as a party to a contract, with the farmer as the other signature.
+Your episode [episode title] helped me understand a trial record I had been misreading for a year. [Helen: the detail, one sentence.] Your guest described a folk being treated as one party to an agreement, and the Swedish courts of the 1670s seem to have read their cases the same way.
 
-I've been sending the writers in my Historical Novel Society chapter here in New York to the show. Several have come back quoting it.
+I've been recommending the show to the writers in my Historical Novel Society chapter in New York.
 
-Warmly,
+Best,
 Helen
 helenerwin.com
 
 ### Touch 4 · email, the ask
-Subject: Sweden's river fiddler and the woman of the woods, for the podcast
+Subject: Guest suggestion: Sweden's sorcery trials and the 1669 Mora trial
 
 Hi Mark,
 
-Your novelist episodes argue that fiction can carry folklore without flattening it. Here's the Swedish version of that argument.
+I've listened to your episodes with novelists, and I'd like to suggest myself as a guest.
 
-Between 1668 and 1676 Swedish courts tried farmers and milkmaids for keeping company with Näcken, the fiddler in the river, and the Skogsrå, the woman of the woods with bark for a back. The confessions survive. My novel *The Lure of Water and Wood* gives those two beings the narration.
+My novels draw on Swedish folklore and court records. In the 1600s and 1700s, Swedish courts tried farmers and milkmaids for relationships with Näcken, a water spirit who plays the fiddle, and the Skogsrå, a forest spirit. My novel *The Lure of Water and Wood* is narrated by those two figures.
 
-The hour I'd offer: Blåkulla before Salem. The Mora executions of 1669 were printed across Europe, and that printed account shaped how Salem spoke about witches two decades on.
+A possible topic is the 1669 Mora trial. Accounts of the executions were printed across Europe and were still being cited when the Salem trials began.
 
-If the timing's wrong, just tell me a better month. The book and the café are at helenerwin.com
+If you aren't booking guests now, I'd be grateful to know when you next are. More about me is at helenerwin.com.
 
 Best,
 Helen Lundström Erwin
 
 ### Touch 5 · follow-up, same thread
-Subject: Re: Sweden's river fiddler and the woman of the woods
+Subject: Re: Guest suggestion: the Swedish witch trials of 1668 to 1676
 
 Hi Mark,
 
-One more note before I leave you in peace. Swedish Easter is witch week: children paint their cheeks, tie on headscarves, and go door to door as påskkärringar on their way to Blåkulla. It's the 1669 trials turned into a sweets run. If a spring episode could use that, I'm free most evenings, Eastern time.
+One more idea, in case it suits a spring episode. At Easter, Swedish children dress as påskkärringar, Easter witches, and go door to door collecting sweets. The custom comes from the belief that witches flew to Blåkulla at Easter, the same belief at the center of the Mora trial. I'm available most evenings, Eastern time.
 
-Silence is a fine answer.
+I won't write about this again unless you'd like me to.
 
-Warmly,
+Best,
 Helen
 
 ### Touch 6 · after a yes
-Subject: Dates, and what I'll bring
+Subject: Recording dates
 
 Hi Mark,
 
-Thank you. [Three dates.] I'll bring the Mora confessions in translation and a short passage from the Skogsrå's chapters, and I'll keep each under two minutes so you can cut freely. My one-sheet is attached for the show notes.
+Thank you for having me. I can record on [three dates]. I'll bring English translations of passages from the Mora records [Helen: confirm you have these] and a short reading from the novel, each under two minutes. My one-sheet for the show notes is attached.
 
-Warmly,
+Best,
 Helen
 
 ## Stop rule

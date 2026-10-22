@@ -23,38 +23,38 @@ The chapter's programs are recorded and published to its video library, podcast,
 ## Drafts
 
 **Touch 1**
-Subject: Cursed Bloodlines
+Subject: Thank you for Cursed Bloodlines
 
 Susan,
 
-[One sentence: a line of Lisa's, or a question from the room.] You kept the room on the history when it wanted to drift to the horror, which is the harder job. Thank you.
+[One sentence: a point from Lisa's talk or a question from the audience.] You kept the discussion on the history when it could easily have drifted to horror. Thank you for moderating it.
 
-Warmly,
+Best,
 Helen
 
 **Touch 2**
-Subject: Something from the VR festival for novelists
+Subject: An idea from Immersive X for novelists
 
 Susan,
 
-Three days in VR at Immersive X last week, and one thing kept applying to us: [one sentence, e.g. standing in a reconstructed room before writing it changes what you notice]. Thought you'd want it for the committee file. Nothing to act on.
+I spent three days at Immersive X last week. One idea there seemed useful for historical novelists: [one sentence, for example that standing in a reconstructed room before writing it changes what you notice]. I thought it might be useful for the committee.
 
-Warmly,
+Best,
 Helen
 
 **Touch 3**
-Subject: Two spring programs, your pick
+Subject: Two possible programs for spring
 
 Susan,
 
-Two chapter program ideas for spring, both recordable for the podcast:
+I have two ideas for chapter programs this spring. Both could be recorded for the podcast.
 
-1. When the sources are trial records and the accused are spirits: folklore inside historical fiction.
-2. Walking the setting before you write it: VR for historical novelists, with a live visit to the café.
+1. Folklore in historical fiction, using the Swedish trials where the accused were said to have consorted with spirits.
+2. VR as a research tool for historical novelists, with a live visit to the café.
 
-Which would you rather moderate, or is someone else on the committee the better fit? One line back is plenty.
+Would you want to moderate either one, or is someone else on the committee a better fit?
 
-Warmly,
+Best,
 Helen
 
 **Touch 4**
@@ -62,13 +62,13 @@ Subject: Program proposal: [chosen title]
 
 Hello events team,
 
-Proposing a chapter program for [March or April] 2027.
+I'd like to propose a chapter program for [March or April] 2027.
 
 Title: [chosen title]
-Abstract: [three sentences from talk-topics.md, topic 1 or 6]
+Description: [three sentences from talk-topics.md, topic 1 or 6]
 Format: 45 minutes plus questions, hybrid, recorded for the chapter podcast and video library.
 Moderator: Susan Wands has agreed.
-Dates I can do: [three options]
+Possible dates: [three options]
 
 Best,
 Helen Lundström Erwin

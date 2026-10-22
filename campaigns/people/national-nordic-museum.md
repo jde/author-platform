@@ -21,24 +21,24 @@ A standing author series at the largest Nordic museum in the country, with onlin
 ## Drafts
 
 ### Touch 2 · email, the ask
-Subject: A remote Meet the Author for 2027, with a museum inside it
+Subject: Proposal for a remote Meet the Author session in 2027
 
 Hello [name],
 
-I joined [author]'s Meet the Author in October and liked how much room the questions got.
+I attended [author]'s Meet the Author session in October and liked how much time was given to questions. [Helen: confirm she attended.]
 
-I was born in Helsingborg and write historical fiction in New York. I'd like to offer the museum a remote Meet the Author on *The Lure of Water and Wood*, a historical fantasy narrated by Näcken and the Skogsrå across Sweden's sorcery trials of 1668 to 1676, or on *Sour Milk in Sheep's Wool*, set among the women of Lund who won the vote. Either pairs well with a guided visit to The Foremothers Café, the Swedish women's history museum I built in virtual reality from that second novel. It runs in a browser, it's free, and it was a 2026 Auggie Award finalist.
+I was born in Helsingborg and write historical fiction in New York. I'd like to propose a remote Meet the Author session on one of two novels. *The Lure of Water and Wood* is a historical fantasy narrated by Näcken and the Skogsrå during Sweden's sorcery trials of the 1600s and 1700s. *Sour Milk in Sheep's Wool* is set among the women of Lund who campaigned for the vote. Either could be paired with a guided visit to The Foremothers Café, a Swedish women's history museum I built in virtual reality. It runs in a web browser and was a 2026 Auggie Award finalist.
 
-Would a spring month suit? One page of formats: [link]
+Would a spring date work? Formats are on one page: [link]
 
 Best,
 Helen Lundström Erwin
 
 ### Touch 3 · follow-up, same thread
-> Hello [name], the one-page sheet and a one-minute café walkthrough are here: [link]. I'm flexible on month and hour, Pacific evenings included. If 2027 is already set, put me down for the year after and I'll hold the date.
+> Hello [name], here is the one-page description of formats and a short video of the café: [link]. I can adjust to any month and to Pacific evening hours. If 2027 is fully booked, I'd be interested in 2028.
 
 ### Touch 4 · a new hook for Easter
-> Hello [name], every Easter Swedish children dress as witches bound for Blåkulla, and the custom traces straight to the Mora trial of 1669. A remote talk on the Easter witches and the trials behind them, the week before Easter, might sit well on your calendar. I'd bring the records and the folklore both. Would that interest you?
+> Hello [name], one idea for the week before Easter: a remote talk on the Swedish Easter witch tradition and its connection to the Mora trial of 1669. I would cover both the historical records and the folklore. Would that interest you?
 
 ## Stop rule
 Stop after two unanswered asks on a hook; a new hook resets.

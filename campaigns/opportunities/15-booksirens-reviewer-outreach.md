@@ -1,10 +1,10 @@
 # BookSirens reviewer outreach — historical fantasy and mythology retellings
 
 ## Goal
-Ten qualified, active, indie-friendly reviewers who agree to read *The Lure of Water and Wood*, producing new Goodreads and blog reviews through spring 2027. Lure has 13 Goodreads ratings in three years; the aim is to double that.
+Ten active reviewers who accept indie books and agree to read *The Lure of Water and Wood*, producing new reviews on Goodreads and blogs through spring 2027. The book has 13 Goodreads ratings after three years; the aim is to double that.
 
 ## Why her
-The BookSirens reviewer directory lists bloggers by genre with an "accepting indie" flag. Named in the search: Lady Readsalot (mythology retellings, historical fiction), Bunny's Book Burrow (historical fantasy), The Chimney Sweep Reader (historical fantasy, indie), Diane's Book Blog (mythology, historical fantasy, indie), Jorie Loves A Story (retellings), Alternative-Read.com (fairy tale retellings). All must be checked for activity before contact.
+The BookSirens reviewer directory lists reviewers by genre and marks those who accept indie books. Reviewers found in the search: Lady Readsalot (mythology retellings, historical fiction), Bunny's Book Burrow (historical fantasy), The Chimney Sweep Reader (historical fantasy, indie), Diane's Book Blog (mythology, historical fantasy, indie), Jorie Loves A Story (retellings), and Alternative-Read.com (fairy tale retellings). Each one needs to be checked for recent activity before contact.
 
 ## Contact and mechanism
 - Directory: booksirens.com/book-reviewer-directory, lists "historical fantasy," "mythology retellings," "retellings."
@@ -30,27 +30,25 @@ The BookSirens reviewer directory lists bloggers by genre with an "accepting ind
 
 ## Drafts
 
-### Reviewer qualification checklist, one paragraph
-A reviewer qualifies when every one of these holds: the review policy says indie or self-published books are welcome; the policy is open, not paused; the blog or account has posted a review within the last 90 days; at least one review in the past year covers historical fantasy, a folklore or mythology retelling, a Nordic setting, or witch-trial fiction; the reviewer isn't paid-only (unless Dave approves a budget); and the policy doesn't exclude books over 500 pages, because *The Lure of Water and Wood* is 752. Record the policy URL, the submission route, the formats accepted, and the date checked. Follow that reviewer's route to the letter, including the subject line format if they specify one.
+### Reviewer qualification checklist
+A reviewer qualifies when all of these are true: the review policy says indie or self-published books are accepted; the policy is open, not paused; the blog or account has posted a review in the last 90 days; at least one review in the past year covers historical fantasy, a folklore or mythology retelling, a Nordic setting, or witch-trial fiction; the reviewer isn't paid-only (unless Dave approves a budget); and the policy doesn't exclude books over 500 pages, since *The Lure of Water and Wood* is 752. Record the policy URL, the submission route, the formats accepted, and the date checked. Follow each reviewer's instructions exactly, including any required subject line format.
 
 ### Review request, adapted to each policy
-Subject: Review copy offer: a Swedish historical fantasy told by the beings on trial
+Subject: Review copy offer: *The Lure of Water and Wood*, historical fantasy set in Sweden
 
 Hi [first name],
 
-Your review of [title] made me think you'd want to know this book exists: [one sentence on what she noticed in that review].
+[Helen: one sentence on a specific review of theirs and what she noticed in it.] Your policy says you accept indie historical fantasy, so I'm writing to offer a review copy of my novel.
 
-*The Lure of Water and Wood* is set in Sweden between 1600 and 1800 and narrated by Näcken, the water spirit, and the Skogsrå, the forest spirit, the two beings that real farmers and milkmaids were tried for loving during the sorcery trials. It's built on the Mora and Älvdalen records. If *The Mercies* or *The Witch of Eye* is on your shelf, this sits beside them. It is long: 752 pages, and I'd rather say so now.
+*The Lure of Water and Wood* is set in Sweden between 1600 and 1800. It is narrated by Näcken, a water spirit, and the Skogsrå, a forest spirit, whom real farmers and milkmaids were accused of having relations with during the sorcery trials. It's based on the Mora and Älvdalen trial records. Readers of *The Mercies* or *The Witch of Eye* may find it interesting. It's 752 pages long.
 
-EPUB, MOBI, PDF, [or a paperback in the US]. No deadline, and an honest review wherever you post it is the whole ask.
-
-Thank you for reading indie books at all.
+I can send EPUB, MOBI, or PDF [or a paperback in the US]. There's no deadline for the review. If it isn't a fit for you, that's fine.
 
 Best,
 Helen Lundström Erwin
 
 ### Thank-you when a review posts
-[Name], you read all 752 pages, and you noticed [one specific line from the review], which nobody else has. I've shared it with your name on it. If you ever want to see a Swedish women's history museum that lives in VR, I'll give you the tour myself.
+[Name], thank you for reading and reviewing the book. You pointed out [one specific line from the review], which no other reviewer has mentioned. I've shared your review and credited you. If you're interested, I can give you a tour of The Foremothers Café, my women's history museum in VR.
 
 ## Follow-up rule
 No follow-up on a request. Silence is a no. A reviewer who accepts gets the book within 48 hours and one thank-you when the review posts. Nothing else.

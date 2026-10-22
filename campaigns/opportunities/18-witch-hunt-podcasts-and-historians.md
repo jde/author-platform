@@ -1,15 +1,15 @@
 # Witch-hunt podcasts and historians
 
 ## Goal
-Become a known voice on the Swedish sorcery trials in the English-language witch-trial community, which is Salem-heavy and under-served on Sweden. Outcomes sought: one podcast interview (The Thing About Witch Hunts or The Salem Witch Trials Podcast) by spring 2027, and working relationships with three historians who will read and talk about the book.
+Become a recognized source on the Swedish sorcery trials among English-language witch-trial podcasters and historians, who mostly focus on Salem. Specific outcomes: one podcast interview (The Thing About Witch Hunts or The Salem Witch Trials Podcast) by spring 2027, and contact with three historians who will read and discuss the book.
 
 ## Why her
-The Mora trial of 1669 shaped how Salem talked about witches two decades later, and almost nobody in this community has read the Swedish records. Helen spent years in them. She offers something the Salem specialists cannot: the Blåkulla template, the children's testimony, and the folklore beings in the charge sheets.
+The 1669 Mora trial influenced how Salem discussed witchcraft two decades later, but few people in this community have read the Swedish records. Helen has spent years working with them. She can cover topics Salem specialists usually don't: the Blåkulla accounts, the children's testimony, and the folklore beings named in the charges.
 
 ## Contact and mechanism
 - Josh Hutchinson, joshhutchinson.bsky.social. Witch-trial historian, co-host of The Thing About Witch Hunts (nonprofit podcast on past and present witch hunts) and The Thing About Salem. Website could not be resolved in October 2026. [verify: current website and guest route; try the Bluesky profile link]
 - Greg Houle, greghoule.bsky.social. Host of The Salem Witch Trials Podcast and author of a novel about the Putnams. [verify guest route]
-- Salem Witch-Hunt, salemwitchhunt.bsky.social. Official account with primary sources and a daily real-time podcast. A sharer, not a host.
+- Salem Witch-Hunt, salemwitchhunt.bsky.social. Official account with primary sources and a daily real-time podcast. Useful for sharing posts; it does not interview guests.
 - Louise Hauberg Lindgaard, lhlindgaard.bsky.social. Danish early-modern historian, HEX! Museum. See file 19.
 - Also on Bluesky: Kathryn Nuernberger (The Witch of Eye), Beth Caruso (Connecticut Witch Trials Trilogy), Caitlin Starkey and Abigail Mitchell (PhD researchers).
 - Mechanism: Bluesky first, three no-ask touches each, then a direct message or email pitch.
@@ -36,45 +36,45 @@ The Mora trial of 1669 shaped how Salem talked about witches two decades later, 
 
 ### Replies, touch one
 To Josh Hutchinson, under a post about testimony:
-Sweden solved the testimony problem by asking children the same questions in the same order in every parish. The 1669 Mora confessions agree with each other because the questionnaire did. Salem inherited the method before it inherited the panic.
+In Sweden, children in different parishes were asked the same questions in the same order. That is one reason the 1669 Mora confessions agree with each other so closely. Salem later used similar methods with child witnesses.
 
 To Greg Houle, under a Putnam post:
-The Mora report that went round Europe in 1670 is the nearest thing Salem had to a playbook, and it came from a parish where a water spirit was on the charge sheet. I keep the Swedish records in a drawer if the Putnams ever need a precedent.
+The account of the Mora trial that circulated in Europe from 1670 is the closest precedent Salem had, and the Swedish charges included relations with a water spirit. I have the Swedish records if they're ever useful for your Putnam research.
 
 ### Standalone post, touch two
-In Mora, Sweden, 1669, the court's questions to children came in a fixed order: who took you to Blåkulla, how did you fly, what did the Devil feed you. Answers matched because questions did. @joshhutchinson's thread on scripted testimony is the clearest account of it I've read. #WitchTrials #FolkloreThursday
+In Mora, Sweden, in 1669, the court asked children questions in a fixed order: who took you to Blåkulla, how did you fly there, and what did the Devil feed you. As a result, their answers matched. @joshhutchinson's thread on scripted testimony explains this well. #WitchTrials #FolkloreThursday
 
 ### Sharing an episode, touch three
-Listened to [episode title] from @aboutwitchhunts walking to the library. [One thing it taught her.] Sweden's hunt ran 1668 to 1676 on the same machinery, and the records are in Swedish, which is the only reason so few people on this side know them.
+I listened to [episode title] from @aboutwitchhunts. [One thing it taught her.] Sweden's witch hunt of 1668 to 1676 worked in a similar way. Its records are in Swedish, which is one reason they're less known in English.
 
 ### Pitch to Josh Hutchinson
-Subject: Blåkulla before Salem
+Subject: Episode idea: the Swedish witch trials and Salem
 
 Hi Josh,
 
-Your episode on [title] sent me back to my own files. [One sentence on what she took from it.]
+[One sentence on a specific episode and what she took from it.]
 
-I spent several years in the Mora and Älvdalen trial records for *The Lure of Water and Wood*, a historical fantasy narrated by Näcken and the Skogsrå, the water and forest spirits that real farmers and milkmaids were charged with loving. The Mora report of 1670 reached Salem, and so did the questionnaire the children answered.
+I'd like to suggest an episode on Sweden's witch hunt of 1668 to 1676. My novel *The Lure of Water and Wood* is set during Sweden's sorcery trials of the 1600s and 1700s, and it is narrated by Näcken and the Skogsrå, a water spirit and a forest spirit that people were accused of having relations with. [Helen: add how long and in which records you researched, if you'd like to mention it.] Accounts of the Mora trial reached Salem.
 
-Here's what I'd put on The Thing About Witch Hunts in an hour: the Blåkulla story as the court told it, how child testimony was manufactured parish by parish, what two folklore beings were doing in a legal document, and the part nobody expects, which is that Sweden shut the whole machine down in 1676 and never restarted it. I'll bring the sources and read from them.
+Topics I could cover: the Blåkulla accounts as the court recorded them, how children's testimony was produced by asking the same questions in each parish, why folklore beings appear in the legal records, and how Sweden ended the trials in 1676. I can read from the sources.
 
-If the slate's full, tell me when it opens and I'll be there.
+If your schedule is full, let me know when to check back.
 
 Best,
 Helen Lundström Erwin
 
 ### Pitch to Greg Houle
-Subject: The Swedish report that reached Salem
+Subject: Episode idea: the Swedish trial report that reached Salem
 
 Hi Greg,
 
 [One sentence on his Putnam novel or a recent episode.]
 
-My novel *The Lure of Water and Wood* lets two folklore beings narrate Sweden's sorcery trials of 1668 to 1676, and one strand of that story belongs to your listeners: the Mora report that circulated in Europe is the nearest precedent Salem had, and it arrived with a water spirit and a forest spirit already named in the charges.
+I'd like to suggest an episode on what Salem may have taken from Sweden. My novel *The Lure of Water and Wood* is narrated by two figures from Swedish folklore during Sweden's sorcery trials of the 1600s and 1700s. The account of the Mora trial that circulated in Europe was the closest precedent Salem had, and the Swedish charges included relations with a water spirit and a forest spirit.
 
-An episode on what Salem borrowed from Sweden, kept in conversation with your Putnam work, would be a good hour. I'll bring the records and I don't mind being argued with.
+I could discuss it alongside your work on the Putnams and bring the records.
 
-Tell me yes and I'll propose dates.
+If you're interested, I'll send some possible dates.
 
 Best,
 Helen Lundström Erwin
@@ -84,7 +84,7 @@ Subject: Re: [original subject]
 
 Hi [Josh or Greg],
 
-One thing I left out: the 1676 commission that ended Sweden's hunt was triggered by a boy admitting he'd made the whole thing up for attention, and the court believed him. That's a story on its own. If a Swedish hour fits the spring, I'm free most evenings, Eastern time. [Helen: verify the boy's confession detail before sending.]
+One more possible topic: the 1676 commission that ended Sweden's witch hunt was prompted by a boy who admitted he had made up his testimony. [Helen: verify the boy's confession detail before sending.] If a Swedish episode fits your spring schedule, I'm free most evenings, Eastern time.
 
 Best,
 Helen

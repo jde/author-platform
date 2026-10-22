@@ -22,35 +22,33 @@ Former program director: she knows how chapter programs get scheduled. Her Octob
 ## Drafts
 
 **Touch 1**
-Subject: Cursed Bloodlines, from the Swedish side
+Subject: Thank you for Cursed Bloodlines
 
 Lisa,
 
-[One sentence on a specific point from her talk.] In the Swedish trials the horror was the courtroom itself, so your title did some work on me. Thank you for the evening.
+[One sentence on a specific point from her talk.] Your talk made me think about the Swedish trials, where the courtroom itself was the frightening part. Thank you for the evening.
 
-Warmly,
+Best,
 Helen
 
 **Touch 2**
-Subject: One for your history-into-horror file
+Subject: A detail for your history-into-horror research
 
 Lisa,
 
-A detail you'll like. After the Mora trial of 1669, a German broadsheet of the executions circulated across Europe and was still being read when Salem started twenty years later. The children's confessions about flying to Blåkulla became the script every later Swedish trial followed. History became horror on a print run.
+You might find this useful. After the Mora trial of 1669, reports of the executions were printed and read across Europe, and they were still being cited when the Salem trials began. The Mora children's confessions about being flown to Blåkulla also became the model for later Swedish trials.
 
-File it or forget it.
-
-Warmly,
+Best,
 Helen
 
 **Touch 3**
-Subject: How to make a program easy to say yes to
+Subject: Advice on proposing a program
 
 Lisa,
 
-I want to propose a spring program on folklore inside historical fiction, where the accused are spirits. You've run programs; what makes one easy for the committee to approve? And would you consider co-presenting, your history-into-horror beside my trials? "No, but here's the tip" is a complete answer and I'll take it gladly.
+I'd like to propose a spring chapter program on folklore in historical fiction, using the Swedish trials. You've organized programs before. What makes a proposal easy for the committee to approve? I'd also like to ask whether you'd co-present, with your work on history and horror alongside mine on the trials. Advice alone would be very helpful.
 
-Warmly,
+Best,
 Helen
 
 **Touch 4**
@@ -58,9 +56,9 @@ Subject: Beta readers for [title]
 
 Lisa,
 
-[Title] is at [draft stage], and the Beta Reader program is where I'd like it to go next. Is there room in [month], and what does the queue look like?
+[Title] is at [draft stage], and I'd like to submit it to the Beta Reader program next. Is there space in [month], and how long is the queue?
 
-Warmly,
+Best,
 Helen
 
 ## Stop rule

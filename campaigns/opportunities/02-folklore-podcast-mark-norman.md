@@ -34,46 +34,46 @@ Mark Norman's show has had novelists as guests (Danielle Giles on folk medicine,
 ## Drafts
 
 ### Bluesky reply (first touch, under 50 words)
-Sweden's version is the Skogsrå: a lovely face, bark or a hollow where her back should be. In the 1600s the men who followed her into the trees answered for it in court. I write those trials from her side of the room. Good episode.
+Sweden has a close equivalent in the Skogsrå, a forest spirit described as a beautiful woman with a hollow or bark-covered back. In the 1600s, men accused of relations with her were tried in court. My novel is about those trials.
 
 ### Pitch email
-Subject: Danielle Giles, folk medicine, and a courtroom in Mora
+Subject: Guest suggestion: Swedish folklore and the 1669 Mora trial
 
 Hi Mark,
 
-Your conversation with Danielle Giles kept circling a question I live inside: what happens when the remedy and the offence are the same act. [Helen: the moment in the episode that stuck with her.]
+I've listened to your episode with Danielle Giles on folk medicine, and I'd like to suggest myself as a guest. [Helen: one point from the episode that stuck with her.]
 
-I write novels from Swedish trial records. In 1669 the court at Mora heard children describe flying to Blåkulla, and people died on that testimony. A German print of the executions crossed Europe and was still being cited when Salem began. *The Lure of Water and Wood* gives those proceedings to Näcken and the Skogsrå, the beings the accused were charged with loving, and lets them narrate.
+I write historical fiction based on Swedish folklore and trial records. My latest novel, *The Lure of Water and Wood*, follows Näcken and the Skogsrå through the Swedish sorcery trials of the 1600s and 1700s.
 
-An hour on the Swedish hunts from the creatures' bench would be new ground for the show. Say the word and I'll send dates.
+A possible topic is the Mora trial of 1669. Children testified that they had been taken to Blåkulla, and people were executed on that testimony. Reports spread across Europe, and a German illustration of the executions is thought to have influenced discussion of the Salem trials.
+
+I can record most evenings, Eastern time. More about my work is at helenerwin.com.
 
 Best,
 Helen Lundström Erwin
-helenerwin.com
 
 ### Follow-up (two weeks later)
-Subject: Re: a courtroom in Mora
+Subject: Re: Guest suggestion: Swedish folklore and the 1669 Mora trial
 
 Hi Mark,
 
-One thing I left out: I can read from the Mora depositions on air. The children's accounts are folk horror in the oldest sense, and nobody has put them in English listeners' ears yet.
-
-If the slate's full, tell me when it opens and I'll come back then.
+I wanted to check whether you'd seen my note about an episode on the Mora trial. I could also read short passages from the trial testimony on air. Let me know if this might fit a future episode.
 
 Best,
 Helen
 
 ### Thank-you after recording
-Subject: That was a pleasure
+Subject: Thank you for having me
 
 Hi Mark,
 
-Thank you for this morning. [Helen: one thing he said that she'll keep.] The episode goes on my Bluesky and LinkedIn the day it drops, with your name on it.
+Thank you for the conversation today. [Helen: one thing he said that she'll remember.] I'll share the episode on Bluesky and LinkedIn when it's released.
 
-Whenever you want a Swedish voice for Walpurgis or midsummer, you have my address.
+If you plan an episode on Walpurgis or midsummer traditions, I can help with the Swedish material.
 
-Warmly,
+Best,
 Helen
+
 ## Follow-up rule
 One follow-up at 14 days. Stop at 28 days. Keep replying to their Bluesky posts once a month regardless; the relationship outlasts the pitch.
 
