@@ -7,11 +7,11 @@ who set this up. Ask which, once, at the start.
 ## First run on a new machine (do this once, then delete nothing; just tick it)
 If `notes/sessions.md` has no entries under `## Done` and the folder was just cloned:
 1. Welcome Helen by name in two lines. Say what this folder is and that nothing has been sent yet.
-2. Make it hers. Ask with the question tool:
-   "Keep a backup online?" — (a) "Yes, in my own private GitHub" (Recommended: create a private repo
-   under her account with `gh repo create --private --source . --push` after `gh auth login`),
-   (b) "Keep it only on this computer" (run `git remote remove origin`),
-   (c) "Keep syncing with Dave's copy" (leave origin as is; pull before each session).
+2. Make it hers. She probably has no git. Ask with the question tool:
+   "Where should this live?" — (a) "Just on this computer" (Recommended; nothing else to set up),
+   (b) "Back it up to my cloud drive" (iCloud, Dropbox, or Google Drive: move the folder there),
+   (c) "Set up version history" (only if she wants it: install git, `git init`, commit; explain in one line).
+   If a `.git` folder exists from Dave's copy, remove its remote so nothing pushes to Dave's repository.
 3. Shift the calendar. If today is after 2026-10-26, move every date in `campaigns/master-timeline.md`
    forward so the first week starts next Monday, and skip events that have passed (say which).
 4. Create the private folders: `private/reports/`, `materials/voice-samples/`, `materials/voice-edits/`.
